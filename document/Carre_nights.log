@@ -1,0 +1,3700 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.2.21)  23 OCT 2023 00:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Carre_nights.tex
+(./Carre_nights.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(c:/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2020/10/09 version 4.42 text color boxes
+
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks15
+\pgfutil@tempdima=\dimen139
+\pgfutil@tempdimb=\dimen140
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box47
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen143
+\pgf@y=\dimen144
+\pgf@xa=\dimen145
+\pgf@ya=\dimen146
+\pgf@xb=\dimen147
+\pgf@yb=\dimen148
+\pgf@xc=\dimen149
+\pgf@yc=\dimen150
+\pgf@xd=\dimen151
+\pgf@yd=\dimen152
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count188
+\c@pgf@countb=\count189
+\c@pgf@countc=\count190
+\c@pgf@countd=\count191
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count192
+ (c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count193
+\pgfsyssoftpath@bigbuffer@items=\count194
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)) (c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen153
+\pgfmath@count=\count195
+\pgfmath@box=\box48
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count196
+))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen154
+\pgf@picmaxx=\dimen155
+\pgf@picminy=\dimen156
+\pgf@picmaxy=\dimen157
+\pgf@pathminx=\dimen158
+\pgf@pathmaxx=\dimen159
+\pgf@pathminy=\dimen160
+\pgf@pathmaxy=\dimen161
+\pgf@xx=\dimen162
+\pgf@xy=\dimen163
+\pgf@yx=\dimen164
+\pgf@yy=\dimen165
+\pgf@zx=\dimen166
+\pgf@zy=\dimen167
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen168
+\pgf@path@lasty=\dimen169
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen170
+\pgf@shorten@start@additional=\dimen171
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box49
+\pgf@hbox=\box50
+\pgf@layerbox@main=\box51
+\pgf@picture@serial@count=\count197
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen172
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen173
+\pgf@pt@y=\dimen174
+\pgf@pt@temp=\dimen175
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen176
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen177
+\pgf@sys@shading@range@num=\count198
+\pgf@shadingcount=\count199
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box52
+))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (c:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box53
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen178
+\pgf@nodesepend=\dimen179
+)
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+)) (c:/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks26
+\verbatim@line=\toks27
+\verbatim@in@stream=\read3
+)
+(c:/texlive/2020/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(c:/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks28
+)
+(c:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count266
+)
+\tcb@titlebox=\box54
+\tcb@upperbox=\box55
+\tcb@lowerbox=\box56
+\tcb@phantombox=\box57
+\c@tcbbreakpart=\count267
+\c@tcblayer=\count268
+\c@tcolorbox@number=\count269
+\tcb@temp=\box58
+\tcb@temp=\box59
+\tcb@temp=\box60
+\tcb@temp=\box61
+\tcb@out=\write4
+\tcb@record@out=\write5
+
+(c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '4.42'
+\c@tcbrastercolumn=\count270
+\c@tcbrasterrow=\count271
+\c@tcbraster=\count272
+) (c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '4.42'
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen180
+\pgffor@skip=\dimen181
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+))
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count273
+\pgfplotmarksize=\dimen182
+)
+\tikz@lastx=\dimen183
+\tikz@lasty=\dimen184
+\tikz@lastxsaved=\dimen185
+\tikz@lastysaved=\dimen186
+\tikz@lastmovetox=\dimen187
+\tikz@lastmovetoy=\dimen188
+\tikzleveldistance=\dimen189
+\tikzsiblingdistance=\dimen190
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count274
+\tikznumberofchildren=\count275
+\tikznumberofcurrentchild=\count276
+\tikz@fig@count=\count277
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count278
+\pgfmatrixcurrentcolumn=\count279
+\pgf@matrix@numberofcolumns=\count280
+)
+\tikz@expandcount=\count281
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+\tcb@waterbox=\box66
+
+(c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.42'
+)) (c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '4.42'
+(c:/texlive/2020/texmf-dist/tex/generic/oberdiek/pdfcol.sty
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+
+(c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box67
+\tcb@totalupperbox=\box68
+\tcb@totallowerbox=\box69
+)
+(c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '4.42'
+) (c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '4.42'
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks31
+\ex@=\dimen191
+))
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen192
+)
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count282
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count283
+\leftroot@=\count284
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count285
+\DOTSCASE@=\count286
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box70
+\strutbox@=\box71
+\big@size=\dimen193
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count287
+\c@MaxMatrixCols=\count288
+\dotsspace@=\muskip16
+\c@parentequation=\count289
+\dspbrk@lvl=\count290
+\tag@help=\toks32
+\row@=\count291
+\column@=\count292
+\maxfields@=\count293
+\andhelp@=\toks33
+\eqnshift@=\dimen194
+\alignsep@=\dimen195
+\tagshift@=\dimen196
+\tagwidth@=\dimen197
+\totwidth@=\dimen198
+\lineht@=\dimen199
+\@envbody=\toks34
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks35
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+))
+(c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '4.42'
+\tcbfitdim=\dimen256
+\tcb@lowerfitdim=\dimen257
+\tcb@upperfitdim=\dimen258
+\tcb@cur@hbadness=\count294
+) (c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
+Library (tcolorbox): 'tcbxparse.code.tex' version '4.42'
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count295
+\l__pdf_internal_box=\box72
+))
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))))
+(c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '4.42'
+(c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '4.42'
+(c:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count296
+\lst@gtempboxa=\box73
+\lst@token=\toks36
+\lst@length=\count297
+\lst@currlwidth=\dimen259
+\lst@column=\count298
+\lst@pos=\count299
+\lst@lostspace=\dimen260
+\lst@width=\dimen261
+\lst@newlines=\count300
+\lst@lineno=\count301
+\lst@maxwidth=\dimen262
+
+(c:/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count302
+\lst@skipnumbers=\count303
+\lst@framebox=\box74
+)
+(c:/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '4.42'
+(c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '4.42'
+(c:/texlive/2020/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+))
+\c@tcblisting=\count304
+))
+(c:/texlive/2020/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+
+(c:/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+))))
+(c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '4.42'
+) (c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '4.42'
+) (c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '4.42'
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.te
+x
+File: pgflibraryfadings.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '4.42'
+)) (c:/texlive/2020/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language86
+LaTeX Info: Redefining \_ on input line 43.
+)
+(c:/texlive/2020/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks37
+\SOUL@lasttoken=\toks38
+\SOUL@cmds=\toks39
+\SOUL@buffer=\toks40
+\SOUL@token=\toks41
+\SOUL@spaceskip=\skip52
+\SOUL@ttwidth=\dimen263
+\SOUL@uldp=\dimen264
+\SOUL@ulht=\dimen265
+)
+(c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count305
+\U@D=\dimen266
+\l@babelnohyphens=\language87
+
+(c:/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read4
+)
+\bbl@dirlevel=\count306
+
+(c:/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+))
+(c:/texlive/2020/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(c:/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count307
+\c@Blindtext=\count308
+\c@blind@countparstart=\count309
+\blind@countxx=\count310
+\blindtext@numBlindtext=\count311
+\blind@countyy=\count312
+\c@blindlist=\count313
+\c@blindlistlevel=\count314
+\c@blindlist@level=\count315
+\blind@listitem=\count316
+\c@blind@listcount=\count317
+\c@blind@levelcount=\count318
+\blind@mathformula=\count319
+\blind@Mathformula=\count320
+\c@blind@randomcount=\count321
+\c@blind@randommax=\count322
+\c@blind@pangramcount=\count323
+\c@blind@pangrammax=\count324
+)
+(c:/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2020/12/07 v2.8 Micro-typographical refinements (RS)
+\MT@toks=\toks42
+\MT@count=\count325
+LaTeX Info: Redefining \textls on input line 788.
+\MT@outer@kern=\dimen267
+LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
+\MT@listname@count=\count326
+
+(c:/texlive/2020/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2020/12/07 v2.8 Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip53
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(c:/texlive/2020/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2020/12/07 v2.8 microtype main configuration file (RS)
+))
+(c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip54
+\enit@outerparindent=\dimen268
+\enit@toks=\toks43
+\enit@inbox=\box75
+\enit@count@id=\count327
+\enitdp@description=\count328
+)
+(c:/texlive/2020/texmf-dist/tex/latex/index/index.sty
+Package: index 2004/01/20 v4.2beta Improved index support (dmj)
+\@indexbox=\insert252
+\indexproofstyle=\toks44
+
+
+LaTeX Warning: Command \markboth  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \markright  has changed.
+               Check if current package is valid.
+
+) (c:/texlive/2020/texmf-dist/tex/latex/subfiles/subfiles.sty
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+
+(c:/texlive/2020/texmf-dist/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+))
+(c:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip55
+\f@nch@O@elh=\skip56
+\f@nch@O@erh=\skip57
+\f@nch@O@olh=\skip58
+\f@nch@O@orh=\skip59
+\f@nch@O@elf=\skip60
+\f@nch@O@erf=\skip61
+\f@nch@O@olf=\skip62
+\f@nch@O@orf=\skip63
+)
+\idxtitle@default=\toks45
+\tf@default=\write6
+\openout6 = `Carre_nights.idx'.
+
+Package index Info: Writing index file Carre_nights.idx on input line 21.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 27
+.
+
+(c:/texlive/2020/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) (./Carre_nights.aux)
+\openout1 = `Carre_nights.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+
+(c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count329
+\scratchdimen=\dimen269
+\scratchbox=\box76
+\nofMPsegments=\count330
+\nofMParguments=\count331
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count332
+\MPscratchDim=\dimen270
+\MPnumerator=\count333
+\makeMPintoPDFobject=\count334
+\everyMPtoPDFconversion=\toks47
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count335
+
+(c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks48
+\inpenc@posthook=\toks49
+)
+LaTeX Info: Redefining \microtypecontext on input line 27.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 27.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(c:/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
+5.
+
+(c:/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
+5.
+
+(c:/texlive/2020/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+35.
+
+(c:/texlive/2020/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+35.
+
+(c:/texlive/2020/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 35.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 35.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 35.
+ [1
+
+
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Carre_nights
+.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 4.
+ [1
+
+
+] [2] [3]
+[4])
+\tf@toc=\write7
+\openout7 = `Carre_nights.toc'.
+
+ [2]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
+8.
+ (c:/texlive/2020/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+
+ []
+
+[3
+
+]
+Volume 1.
+[1
+
+
+] (./sections/volume_1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+<illustrations/volume_1/T01, n0000(1) - Histoire du roi Schahriar et de son fr�
+�re, le roi Schahzaman.jpg, id=72, 679.338pt x 843.15pt>
+File: illustrations/volume_1/T01, n0000(1) - Histoire du roi Schahriar et de so
+n frère, le roi Schahzaman.jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0000(1) - Histoire du roi Schahriar et de son
+ frère, le roi Schahzaman.jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0000(1) - Histoire du roi
+ Schahriar et de son frère, le roi Schahzaman.jpg  used on input line 10.
+(pdftex.def)             Requested size: 206.32187pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+
+Overfull \hbox (14.25426pt too wide) in paragraph at lines 14--18
+\T1/lmr/m/it/12 (-20) "...the smoke col-umn changed to a Jinn	^^Y of great size
+, vast-shouldered, gigantically-
+ []
+
+[2 <./illustrations/volume_1/T01, n0000(1) - Histoire du roi Schahriar et de so
+n frère, le roi Schahzaman.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+<illustrations/volume_1/T01, n0000(2) - Histoire du roi Schahriar et de son fr�
+�re, le roi Schahzaman.jpg, id=77, 1116.17pt x 1405.25pt>
+File: illustrations/volume_1/T01, n0000(2) - Histoire du roi Schahriar et de so
+n frère, le roi Schahzaman.jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0000(2) - Histoire du roi Schahriar et de son
+ frère, le roi Schahzaman.jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0000(2) - Histoire du roi
+ Schahriar et de son frère, le roi Schahzaman.jpg  used on input line 26.
+(pdftex.def)             Requested size: 203.3885pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+
+ []
+
+[3 <./illustrations/volume_1/T01, n0000(2) - Histoire du roi Schahriar et de so
+n frère, le roi Schahzaman.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+<illustrations/volume_1/T01, n0003 - Histoire du pécheur avec l’éfrit.jpg, 
+id=81, 667.293pt x 804.606pt>
+File: illustrations/volume_1/T01, n0003 - Histoire du pécheur avec l’éfrit.
+jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0003 - Histoire du pécheur avec l’éfrit.j
+pg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0003 - Histoire du péche
+ur avec l’éfrit.jpg  used on input line 42.
+(pdftex.def)             Requested size: 212.36719pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+[4 <./illustrations/volume_1/T01, n0003 - Histoire du pécheur avec l’éfrit.
+jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+<illustrations/volume_1/T01, n0007 - Histoire du pêcheur avec l'éfrit.jpg, id
+=85, 702.625pt x 882.29625pt>
+File: illustrations/volume_1/T01, n0007 - Histoire du pêcheur avec l'éfrit.jp
+g Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0007 - Histoire du pêcheur avec l'éfrit.jpg
+>
+Package pdftex.def Info: illustrations/volume_1/T01, n0007 - Histoire du pêche
+ur avec l'éfrit.jpg  used on input line 58.
+(pdftex.def)             Requested size: 203.92757pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+
+ []
+
+[5 <./illustrations/volume_1/T01, n0007 - Histoire du pêcheur avec l'éfrit.jp
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<illustrations/volume_1/T01, n0009 - Histoire du portefaix avec les jeunes fill
+es.jpg, id=89, 675.7245pt x 842.54774pt>
+File: illustrations/volume_1/T01, n0009 - Histoire du portefaix avec les jeunes
+ filles.jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0009 - Histoire du portefaix avec les jeunes 
+filles.jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0009 - Histoire du portef
+aix avec les jeunes filles.jpg  used on input line 74.
+(pdftex.def)             Requested size: 205.36876pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+[6 <./illustrations/volume_1/T01, n0009 - Histoire du portefaix avec les jeunes
+ filles.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<illustrations/volume_1/T01, n0012 - Histoire du portefaix avec les jeunes fill
+es [Histoire du deuxième Saâlouk].jpg, id=94, 84.315pt x 105.63464pt>
+File: illustrations/volume_1/T01, n0012 - Histoire du portefaix avec les jeunes
+ filles [Histoire du deuxième Saâlouk].jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0012 - Histoire du portefaix avec les jeunes 
+filles [Histoire du deuxième Saâlouk].jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0012 - Histoire du portef
+aix avec les jeunes filles [Histoire du deuxième Saâlouk].jpg  used on input 
+line 90.
+(pdftex.def)             Requested size: 204.40955pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--98
+
+ []
+
+[7 <./illustrations/volume_1/T01, n0012 - Histoire du portefaix avec les jeunes
+ filles [Histoire du deuxième Saâlouk].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+<illustrations/volume_1/T01, n0014 - Histoire du portefaix avec les jeunes fill
+es [Histoire du troisième Saâlouk].jpg, id=98, 598.6365pt x 735.9495pt>
+File: illustrations/volume_1/T01, n0014 - Histoire du portefaix avec les jeunes
+ filles [Histoire du troisième Saâlouk].jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0014 - Histoire du portefaix avec les jeunes 
+filles [Histoire du troisième Saâlouk].jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0014 - Histoire du portef
+aix avec les jeunes filles [Histoire du troisième Saâlouk].jpg  used on input
+ line 106.
+(pdftex.def)             Requested size: 208.29276pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+ []
+
+[8 <./illustrations/volume_1/T01, n0014 - Histoire du portefaix avec les jeunes
+ filles [Histoire du troisième Saâlouk].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+<illustrations/volume_1/T01, n0015 - Histoire du portefaix avec les jeunes fill
+es [Histoire du troisième Saâlouk].jpg, id=102, 672.71326pt x 843.15pt>
+File: illustrations/volume_1/T01, n0015 - Histoire du portefaix avec les jeunes
+ filles [Histoire du troisième Saâlouk].jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0015 - Histoire du portefaix avec les jeunes 
+filles [Histoire du troisième Saâlouk].jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0015 - Histoire du portef
+aix avec les jeunes filles [Histoire du troisième Saâlouk].jpg  used on input
+ line 122.
+(pdftex.def)             Requested size: 204.30986pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--130
+
+ []
+
+[9 <./illustrations/volume_1/T01, n0015 - Histoire du portefaix avec les jeunes
+ filles [Histoire du troisième Saâlouk].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+<illustrations/volume_1/T01, n0017 - Histoire du portefaix avec les jeunes fill
+es [Histoire d'Amina].jpg, id=106, 84.315pt x 104.18925pt>
+File: illustrations/volume_1/T01, n0017 - Histoire du portefaix avec les jeunes
+ filles [Histoire d'Amina].jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0017 - Histoire du portefaix avec les jeunes 
+filles [Histoire d'Amina].jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0017 - Histoire du portef
+aix avec les jeunes filles [Histoire d'Amina].jpg  used on input line 138.
+(pdftex.def)             Requested size: 207.23093pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
+
+ []
+
+[10 <./illustrations/volume_1/T01, n0017 - Histoire du portefaix avec les jeune
+s filles [Histoire d'Amina].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+<illustrations/volume_1/T01, n0018(1) - Histoire du portefaix avec les jeunes f
+illes.jpg, id=110, 749.80125pt x 941.919pt>
+File: illustrations/volume_1/T01, n0018(1) - Histoire du portefaix avec les jeu
+nes filles.jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0018(1) - Histoire du portefaix avec les jeun
+es filles.jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0018(1) - Histoire du por
+tefaix avec les jeunes filles.jpg  used on input line 154.
+(pdftex.def)             Requested size: 203.84485pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--162
+
+ []
+
+[11 <./illustrations/volume_1/T01, n0018(1) - Histoire du portefaix avec les je
+unes filles.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+<illustrations/volume_1/T01, n0018(2) - Histoire de la femme coupée.jpg, id=11
+4, 671.50874pt x 843.15pt>
+File: illustrations/volume_1/T01, n0018(2) - Histoire de la femme coupée.jpg G
+raphic file (type jpg)
+<use illustrations/volume_1/T01, n0018(2) - Histoire de la femme coupée.jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0018(2) - Histoire de la 
+femme coupée.jpg  used on input line 170.
+(pdftex.def)             Requested size: 203.94405pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--178
+
+ []
+
+[12 <./illustrations/volume_1/T01, n0018(2) - Histoire de la femme coupée.jpg>
+]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+<illustrations/volume_1/T01, n0020 - Histoire du vizir Noureddine.jpg, id=119, 
+1123.19624pt x 1404.24625pt>
+File: illustrations/volume_1/T01, n0020 - Histoire du vizir Noureddine.jpg Grap
+hic file (type jpg)
+<use illustrations/volume_1/T01, n0020 - Histoire du vizir Noureddine.jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0020 - Histoire du vizir 
+Noureddine.jpg  used on input line 186.
+(pdftex.def)             Requested size: 204.82307pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
+
+ []
+
+[13 <./illustrations/volume_1/T01, n0020 - Histoire du vizir Noureddine.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+<illustrations/volume_1/T01, n0027(1) - Histoire du bossu [Récit de l'intendan
+t du roi de la Chine].jpg, id=123, 84.315pt x 105.39375pt>
+File: illustrations/volume_1/T01, n0027(1) - Histoire du bossu [Récit de l'int
+endant du roi de la Chine].jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0027(1) - Histoire du bossu [Récit de l'inte
+ndant du roi de la Chine].jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0027(1) - Histoire du bos
+su [Récit de l'intendant du roi de la Chine].jpg  used on input line 202.
+(pdftex.def)             Requested size: 204.89456pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--210
+
+ []
+
+[14 <./illustrations/volume_1/T01, n0027(1) - Histoire du bossu [Récit de l'in
+tendant du roi de la Chine].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+<illustrations/volume_1/T01, n0027(2) - Histoire du bossu [Récit du médecin j
+uif].jpg, id=127, 673.91776pt x 840.741pt>
+File: illustrations/volume_1/T01, n0027(2) - Histoire du bossu [Récit du méde
+cin juif].jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0027(2) - Histoire du bossu [Récit du médec
+in juif].jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0027(2) - Histoire du bos
+su [Récit du médecin juif].jpg  used on input line 218.
+(pdftex.def)             Requested size: 205.26183pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
+
+ []
+
+[15 <./illustrations/volume_1/T01, n0027(2) - Histoire du bossu [Récit du méd
+ecin juif].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+<illustrations/volume_1/T01, n0027(3) - Histoire du bossu [Récit du médecin j
+uif].jpg, id=131, 679.338pt x 843.15pt>
+File: illustrations/volume_1/T01, n0027(3) - Histoire du bossu [Récit du méde
+cin juif].jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0027(3) - Histoire du bossu [Récit du médec
+in juif].jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0027(3) - Histoire du bos
+su [Récit du médecin juif].jpg  used on input line 234.
+(pdftex.def)             Requested size: 206.32187pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--242
+
+ []
+
+[16 <./illustrations/volume_1/T01, n0027(3) - Histoire du bossu [Récit du méd
+ecin juif].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+<illustrations/volume_1/T01, n0028 - Histoire du bossu [Histoire du jeune homme
+ boiteux].jpg, id=135, 84.315pt x 104.7915pt>
+File: illustrations/volume_1/T01, n0028 - Histoire du bossu [Histoire du jeune 
+homme boiteux].jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0028 - Histoire du bossu [Histoire du jeune h
+omme boiteux].jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0028 - Histoire du bossu 
+[Histoire du jeune homme boiteux].jpg  used on input line 250.
+(pdftex.def)             Requested size: 206.05632pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--258
+
+ []
+
+[17 <./illustrations/volume_1/T01, n0028 - Histoire du bossu [Histoire du jeune
+ homme boiteux].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+<illustrations/volume_1/T01, n0030 - Histoire du bossu [Histoires du barbier de
+ Baghdad [Histoire de Bacbouk]].jpg, id=139, 84.315pt x 104.7915pt>
+File: illustrations/volume_1/T01, n0030 - Histoire du bossu [Histoires du barbi
+er de Baghdad [Histoire de Bacbouk]].jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0030 - Histoire du bossu [Histoires du barbie
+r de Baghdad [Histoire de Bacbouk]].jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0030 - Histoire du bossu 
+[Histoires du barbier de Baghdad [Histoire de Bacbouk]].jpg  used on input line
+ 266.
+(pdftex.def)             Requested size: 206.05632pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--274
+
+ []
+
+[18 <./illustrations/volume_1/T01, n0030 - Histoire du bossu [Histoires du barb
+ier de Baghdad [Histoire de Bacbouk]].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+<illustrations/volume_1/T01, n0032(1) - Histoire du bossu [Histoires du barbier
+ de Baghdad [Histoire d’El-Aschâr]].jpg, id=144, 608.87476pt x 762.4485pt>
+File: illustrations/volume_1/T01, n0032(1) - Histoire du bossu [Histoires du ba
+rbier de Baghdad [Histoire d’El-Aschâr]].jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0032(1) - Histoire du bossu [Histoires du bar
+bier de Baghdad [Histoire d’El-Aschâr]].jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0032(1) - Histoire du bos
+su [Histoires du barbier de Baghdad [Histoire d’El-Aschâr]].jpg  used on inp
+ut line 282.
+(pdftex.def)             Requested size: 204.4969pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--290
+
+ []
+
+[19 <./illustrations/volume_1/T01, n0032(1) - Histoire du bossu [Histoires du b
+arbier de Baghdad [Histoire d’El-Aschâr]].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+<illustrations/volume_1/T01, n0032(2) - Histoire du bossu [Histoires du barbier
+ de Baghdad [Histoire de Schakâlik]].jpg, id=148, 84.315pt x 106.2369pt>
+File: illustrations/volume_1/T01, n0032(2) - Histoire du bossu [Histoires du ba
+rbier de Baghdad [Histoire de Schakâlik]].jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0032(2) - Histoire du bossu [Histoires du bar
+bier de Baghdad [Histoire de Schakâlik]].jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0032(2) - Histoire du bos
+su [Histoires du barbier de Baghdad [Histoire de Schakâlik]].jpg  used on inpu
+t line 298.
+(pdftex.def)             Requested size: 203.26709pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--306
+
+ []
+
+[20 <./illustrations/volume_1/T01, n0032(2) - Histoire du bossu [Histoires du b
+arbier de Baghdad [Histoire de Schakâlik]].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+
+ []
+
+<illustrations/volume_1/T01, n0032(3) - Histoire de Douce-Amie.jpg, id=152, 102
+7.84pt x 1289.81876pt>
+File: illustrations/volume_1/T01, n0032(3) - Histoire de Douce-Amie.jpg Graphic
+ file (type jpg)
+<use illustrations/volume_1/T01, n0032(3) - Histoire de Douce-Amie.jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0032(3) - Histoire de Dou
+ce-Amie.jpg  used on input line 314.
+(pdftex.def)             Requested size: 204.05873pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--322
+
+ []
+
+[21 <./illustrations/volume_1/T01, n0032(3) - Histoire de Douce-Amie.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+
+ []
+
+<illustrations/volume_1/T01, n0034 - Histoire de Douce-Amie.jpg, id=156, 84.315
+pt x 106.11646pt>
+File: illustrations/volume_1/T01, n0034 - Histoire de Douce-Amie.jpg Graphic fi
+le (type jpg)
+<use illustrations/volume_1/T01, n0034 - Histoire de Douce-Amie.jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0034 - Histoire de Douce-
+Amie.jpg  used on input line 330.
+(pdftex.def)             Requested size: 203.5064pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--338
+
+ []
+
+[22 <./illustrations/volume_1/T01, n0034 - Histoire de Douce-Amie.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+
+ []
+
+<illustrations/volume_1/T01, n0035 - Histoire de Douce-Amie.jpg, id=160, 84.315
+pt x 104.5506pt>
+File: illustrations/volume_1/T01, n0035 - Histoire de Douce-Amie.jpg Graphic fi
+le (type jpg)
+<use illustrations/volume_1/T01, n0035 - Histoire de Douce-Amie.jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0035 - Histoire de Douce-
+Amie.jpg  used on input line 346.
+(pdftex.def)             Requested size: 206.54906pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--354
+
+ []
+
+[23 <./illustrations/volume_1/T01, n0035 - Histoire de Douce-Amie.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+
+ []
+
+<illustrations/volume_1/T01, n0039 - Histoire de Ghanem Ben-Ayoub [Histoire du 
+nègre Bakhita].jpg, id=164, 348.71538pt x 434.12538pt>
+File: illustrations/volume_1/T01, n0039 - Histoire de Ghanem Ben-Ayoub [Histoir
+e du nègre Bakhita].jpg Graphic file (type jpg)
+<use illustrations/volume_1/T01, n0039 - Histoire de Ghanem Ben-Ayoub [Histoire
+ du nègre Bakhita].jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0039 - Histoire de Ghanem
+ Ben-Ayoub [Histoire du nègre Bakhita].jpg  used on input line 362.
+(pdftex.def)             Requested size: 205.70834pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--370
+
+ []
+
+[24 <./illustrations/volume_1/T01, n0039 - Histoire de Ghanem Ben-Ayoub [Histoi
+re du nègre Bakhita].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+
+ []
+
+<illustrations/volume_1/T01, n0041 - Histoire de Ghanem Ben-Ayoub.jpg, id=169, 
+702.625pt x 884.30376pt>
+File: illustrations/volume_1/T01, n0041 - Histoire de Ghanem Ben-Ayoub.jpg Grap
+hic file (type jpg)
+<use illustrations/volume_1/T01, n0041 - Histoire de Ghanem Ben-Ayoub.jpg>
+Package pdftex.def Info: illustrations/volume_1/T01, n0041 - Histoire de Ghanem
+ Ben-Ayoub.jpg  used on input line 378.
+(pdftex.def)             Requested size: 203.46655pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--386
+
+ []
+
+) [25 <./illustrations/volume_1/T01, n0041 - Histoire de Ghanem Ben-Ayoub.jpg>]
+Volume 2.
+[26
+
+] (./sections/volume_2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+<illustrations/volume_2/T02, n0046 - Histoire du roi Omar Al-Némân et de ses 
+deux fils merveilleux.jpg, id=176, 676.32675pt x 843.15pt>
+File: illustrations/volume_2/T02, n0046 - Histoire du roi Omar Al-Némân et de
+ ses deux fils merveilleux.jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0046 - Histoire du roi Omar Al-Némân et de 
+ses deux fils merveilleux.jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0046 - Histoire du roi Om
+ar Al-Némân et de ses deux fils merveilleux.jpg  used on input line 10.
+(pdftex.def)             Requested size: 205.40732pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+[27 <./illustrations/volume_2/T02, n0046 - Histoire du roi Omar Al-Némân et d
+e ses deux fils merveilleux.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+<illustrations/volume_2/T02, n0050 - Histoire du roi Omar Al-Némân et de ses 
+deux fils merveilleux.jpg, id=180, 84.315pt x 106.59825pt>
+File: illustrations/volume_2/T02, n0050 - Histoire du roi Omar Al-Némân et de
+ ses deux fils merveilleux.jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0050 - Histoire du roi Omar Al-Némân et de 
+ses deux fils merveilleux.jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0050 - Histoire du roi Om
+ar Al-Némân et de ses deux fils merveilleux.jpg  used on input line 26.
+(pdftex.def)             Requested size: 202.55177pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+
+ []
+
+[28 <./illustrations/volume_2/T02, n0050 - Histoire du roi Omar Al-Némân et d
+e ses deux fils merveilleux.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+<illustrations/volume_2/T02, n0053 - Histoire du roi Omar Al-Némân et de ses 
+deux fils merveilleux.jpg, id=184, 84.315pt x 106.7187pt>
+File: illustrations/volume_2/T02, n0053 - Histoire du roi Omar Al-Némân et de
+ ses deux fils merveilleux.jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0053 - Histoire du roi Omar Al-Némân et de 
+ses deux fils merveilleux.jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0053 - Histoire du roi Om
+ar Al-Némân et de ses deux fils merveilleux.jpg  used on input line 42.
+(pdftex.def)             Requested size: 202.37424pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+[29 <./illustrations/volume_2/T02, n0053 - Histoire du roi Omar Al-Némân et d
+e ses deux fils merveilleux.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+<illustrations/volume_2/T02, n0055 - Histoire du roi Omar Al-Némân et de ses 
+deux fils merveilleux.jpg, id=188, 84.315pt x 105.5142pt>
+File: illustrations/volume_2/T02, n0055 - Histoire du roi Omar Al-Némân et de
+ ses deux fils merveilleux.jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0055 - Histoire du roi Omar Al-Némân et de 
+ses deux fils merveilleux.jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0055 - Histoire du roi Om
+ar Al-Némân et de ses deux fils merveilleux.jpg  used on input line 58.
+(pdftex.def)             Requested size: 204.6527pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+
+ []
+
+[30 <./illustrations/volume_2/T02, n0055 - Histoire du roi Omar Al-Némân et d
+e ses deux fils merveilleux.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<illustrations/volume_2/T02, n0067 - Histoire du roi Omar Al-Némân et de ses 
+deux fils merveilleux.jpg, id=193, 84.315pt x 104.5506pt>
+File: illustrations/volume_2/T02, n0067 - Histoire du roi Omar Al-Némân et de
+ ses deux fils merveilleux.jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0067 - Histoire du roi Omar Al-Némân et de 
+ses deux fils merveilleux.jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0067 - Histoire du roi Om
+ar Al-Némân et de ses deux fils merveilleux.jpg  used on input line 74.
+(pdftex.def)             Requested size: 206.54906pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+[31 <./illustrations/volume_2/T02, n0067 - Histoire du roi Omar Al-Némân et d
+e ses deux fils merveilleux.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<illustrations/volume_2/T02, n0078 - Histoire du roi Omar Al-Némân et de ses 
+deux fils merveilleux [Histoire de la mort du roi Omar Al-Némân].jpg, id=197,
+ 84.315pt x 105.39375pt>
+File: illustrations/volume_2/T02, n0078 - Histoire du roi Omar Al-Némân et de
+ ses deux fils merveilleux [Histoire de la mort du roi Omar Al-Némân].jpg Gra
+phic file (type jpg)
+<use illustrations/volume_2/T02, n0078 - Histoire du roi Omar Al-Némân et de 
+ses deux fils merveilleux [Histoire de la mort du roi Omar Al-Némân].jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0078 - Histoire du roi Om
+ar Al-Némân et de ses deux fils merveilleux [Histoire de la mort du roi Omar 
+Al-Némân].jpg  used on input line 90.
+(pdftex.def)             Requested size: 204.89456pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--98
+
+ []
+
+[32 <./illustrations/volume_2/T02, n0078 - Histoire du roi Omar Al-Némân et d
+e ses deux fils merveilleux [Histoire de la mort du roi Omar Al-Némân].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+<illustrations/volume_2/T02, n0094 - Histoire du roi Omar Al-Némân et de ses 
+deux fils merveilleux.jpg, id=201, 746.79pt x 880.4895pt>
+File: illustrations/volume_2/T02, n0094 - Histoire du roi Omar Al-Némân et de
+ ses deux fils merveilleux.jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0094 - Histoire du roi Omar Al-Némân et de 
+ses deux fils merveilleux.jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0094 - Histoire du roi Om
+ar Al-Némân et de ses deux fils merveilleux.jpg  used on input line 106.
+(pdftex.def)             Requested size: 217.19028pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+ []
+
+[33 <./illustrations/volume_2/T02, n0094 - Histoire du roi Omar Al-Némân et d
+e ses deux fils merveilleux.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+<illustrations/volume_2/T02, n0108 - Histoire du roi Omar Al-Némân et de ses 
+deux fils merveilleux.jpg, id=205, 601.64775pt x 748.59676pt>
+File: illustrations/volume_2/T02, n0108 - Histoire du roi Omar Al-Némân et de
+ ses deux fils merveilleux.jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0108 - Histoire du roi Omar Al-Némân et de 
+ses deux fils merveilleux.jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0108 - Histoire du roi Om
+ar Al-Némân et de ses deux fils merveilleux.jpg  used on input line 122.
+(pdftex.def)             Requested size: 205.80606pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--130
+
+ []
+
+[34 <./illustrations/volume_2/T02, n0108 - Histoire du roi Omar Al-Némân et d
+e ses deux fils merveilleux.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+<illustrations/volume_2/T02, n0116 - Histoire d’Aziz et Aziza [Histoire du be
+l Aziz].jpg, id=209, 670.9065pt x 843.15pt>
+File: illustrations/volume_2/T02, n0116 - Histoire d’Aziz et Aziza [Histoire 
+du bel Aziz].jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0116 - Histoire d’Aziz et Aziza [Histoire d
+u bel Aziz].jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0116 - Histoire d’Aziz 
+et Aziza [Histoire du bel Aziz].jpg  used on input line 138.
+(pdftex.def)             Requested size: 203.76114pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
+
+ []
+
+[35 <./illustrations/volume_2/T02, n0116 - Histoire d’Aziz et Aziza [Histoire
+ du bel Aziz].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+<illustrations/volume_2/T02, n0129 - Histoire d’Aziz et Aziza [Histoire du be
+l Aziz].jpg, id=213, 353.76923pt x 436.65231pt>
+File: illustrations/volume_2/T02, n0129 - Histoire d’Aziz et Aziza [Histoire 
+du bel Aziz].jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0129 - Histoire d’Aziz et Aziza [Histoire d
+u bel Aziz].jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0129 - Histoire d’Aziz 
+et Aziza [Histoire du bel Aziz].jpg  used on input line 154.
+(pdftex.def)             Requested size: 207.47507pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--162
+
+ []
+
+[36 <./illustrations/volume_2/T02, n0129 - Histoire d’Aziz et Aziza [Histoire
+ du bel Aziz].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+<illustrations/volume_2/T02, n0138 - Histoire d’Aziz et Aziza [Aventures de K
+anmakân].jpg, id=218, 84.315pt x 105.5142pt>
+File: illustrations/volume_2/T02, n0138 - Histoire d’Aziz et Aziza [Aventures
+ de Kanmakân].jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0138 - Histoire d’Aziz et Aziza [Aventures 
+de Kanmakân].jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0138 - Histoire d’Aziz 
+et Aziza [Aventures de Kanmakân].jpg  used on input line 170.
+(pdftex.def)             Requested size: 204.6527pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--178
+
+ []
+
+[37 <./illustrations/volume_2/T02, n0138 - Histoire d’Aziz et Aziza [Aventure
+s de Kanmakân].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+<illustrations/volume_2/T02, n0141 - Histoire d’Aziz et Aziza [Aventures de K
+anmakân].jpg, id=222, 84.315pt x 106.2369pt>
+File: illustrations/volume_2/T02, n0141 - Histoire d’Aziz et Aziza [Aventures
+ de Kanmakân].jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0141 - Histoire d’Aziz et Aziza [Aventures 
+de Kanmakân].jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0141 - Histoire d’Aziz 
+et Aziza [Aventures de Kanmakân].jpg  used on input line 186.
+(pdftex.def)             Requested size: 203.26709pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
+
+ []
+
+[38 <./illustrations/volume_2/T02, n0141 - Histoire d’Aziz et Aziza [Aventure
+s de Kanmakân].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+<illustrations/volume_2/T02, n0146 - Histoire charmante des animaux et des oise
+aux [Conte de l’oie].jpg, id=227, 680.5425pt x 843.15pt>
+File: illustrations/volume_2/T02, n0146 - Histoire charmante des animaux et des
+ oiseaux [Conte de l’oie].jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0146 - Histoire charmante des animaux et des 
+oiseaux [Conte de l’oie].jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0146 - Histoire charmante
+ des animaux et des oiseaux [Conte de l’oie].jpg  used on input line 202.
+(pdftex.def)             Requested size: 206.68768pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--210
+
+ []
+
+[39 <./illustrations/volume_2/T02, n0146 - Histoire charmante des animaux et de
+s oiseaux [Conte de l’oie].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+<illustrations/volume_2/T02, n0147 - Histoire charmante des animaux et des oise
+aux [Le berger et l’adolescente].jpg, id=231, 84.315pt x 106.4778pt>
+File: illustrations/volume_2/T02, n0147 - Histoire charmante des animaux et des
+ oiseaux [Le berger et l’adolescente].jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0147 - Histoire charmante des animaux et des 
+oiseaux [Le berger et l’adolescente].jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0147 - Histoire charmante
+ des animaux et des oiseaux [Le berger et l’adolescente].jpg  used on input l
+ine 218.
+(pdftex.def)             Requested size: 202.78978pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
+
+ []
+
+[40 <./illustrations/volume_2/T02, n0147 - Histoire charmante des animaux et de
+s oiseaux [Le berger et l’adolescente].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+<illustrations/volume_2/T02, n0152 - Histoire d'Ali Ben-Bekar et de la belle Sc
+hamsennahar.jpg, id=235, 360.33923pt x 451.30846pt>
+File: illustrations/volume_2/T02, n0152 - Histoire d'Ali Ben-Bekar et de la bel
+le Schamsennahar.jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0152 - Histoire d'Ali Ben-Bekar et de la bell
+e Schamsennahar.jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0152 - Histoire d'Ali Ben
+-Bekar et de la belle Schamsennahar.jpg  used on input line 234.
+(pdftex.def)             Requested size: 204.46626pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--242
+
+ []
+
+[41 <./illustrations/volume_2/T02, n0152 - Histoire d'Ali Ben-Bekar et de la be
+lle Schamsennahar.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+<illustrations/volume_2/T02, n0155 - Histoire d'Ali Ben-Bekar et de la belle Sc
+hamsennahar.jpg, id=239, 353.76923pt x 441.20078pt>
+File: illustrations/volume_2/T02, n0155 - Histoire d'Ali Ben-Bekar et de la bel
+le Schamsennahar.jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0155 - Histoire d'Ali Ben-Bekar et de la bell
+e Schamsennahar.jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0155 - Histoire d'Ali Ben
+-Bekar et de la belle Schamsennahar.jpg  used on input line 250.
+(pdftex.def)             Requested size: 205.33203pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--258
+
+ []
+
+[42 <./illustrations/volume_2/T02, n0155 - Histoire d'Ali Ben-Bekar et de la be
+lle Schamsennahar.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+<illustrations/volume_2/T02, n0158 - Histoire d'Ali Ben-Bekar et de la belle Sc
+hamsennahar.jpg, id=244, 84.315pt x 105.39375pt>
+File: illustrations/volume_2/T02, n0158 - Histoire d'Ali Ben-Bekar et de la bel
+le Schamsennahar.jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0158 - Histoire d'Ali Ben-Bekar et de la bell
+e Schamsennahar.jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0158 - Histoire d'Ali Ben
+-Bekar et de la belle Schamsennahar.jpg  used on input line 266.
+(pdftex.def)             Requested size: 204.89456pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--274
+
+ []
+
+[43 <./illustrations/volume_2/T02, n0158 - Histoire d'Ali Ben-Bekar et de la be
+lle Schamsennahar.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+<illustrations/volume_2/T02, n0169 - Histoire d'Ali Ben-Bekar et de la belle Sc
+hamsennahar.jpg, id=248, 666.69075pt x 827.4915pt>
+File: illustrations/volume_2/T02, n0169 - Histoire d'Ali Ben-Bekar et de la bel
+le Schamsennahar.jpg Graphic file (type jpg)
+<use illustrations/volume_2/T02, n0169 - Histoire d'Ali Ben-Bekar et de la bell
+e Schamsennahar.jpg>
+Package pdftex.def Info: illustrations/volume_2/T02, n0169 - Histoire d'Ali Ben
+-Bekar et de la belle Schamsennahar.jpg  used on input line 282.
+(pdftex.def)             Requested size: 206.31593pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--290
+
+ []
+
+) [44 <./illustrations/volume_2/T02, n0169 - Histoire d'Ali Ben-Bekar et de la 
+belle Schamsennahar.jpg>]
+Volume 3.
+[45
+
+] (./sections/volume_3.tex
+Overfull \hbox (2.64627pt too wide) in paragraph at lines 6--7
+\T1/lmr/bx/n/17.28 (-20) The tale of Ka-mar al-Zaman and princess Budur 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+<illustrations/volume_3/T03, n0180 - Histoire de la princesse Boudour.jpg, id=2
+55, 663.6795pt x 829.9005pt>
+File: illustrations/volume_3/T03, n0180 - Histoire de la princesse Boudour.jpg 
+Graphic file (type jpg)
+<use illustrations/volume_3/T03, n0180 - Histoire de la princesse Boudour.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0180 - Histoire de la pri
+ncesse Boudour.jpg  used on input line 10.
+(pdftex.def)             Requested size: 204.78659pt x 256.0748pt.
+
+Overfull \hbox (5.35327pt too wide) in paragraph at lines 14--18
+\T1/lmr/m/it/12 (-20) "...l'�frit Dah-nasch, avec des pr�-cau-tions in-finies, 
+d�-posa douce-ment la princesse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+[46 <./illustrations/volume_3/T03, n0180 - Histoire de la princesse Boudour.jpg
+>]
+Overfull \hbox (2.64627pt too wide) in paragraph at lines 22--23
+\T1/lmr/bx/n/17.28 (-20) The tale of Ka-mar al-Zaman and princess Budur 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+<illustrations/volume_3/T03, n0188 - Histoire de la princesse Boudour.jpg, id=2
+59, 84.315pt x 105.0324pt>
+File: illustrations/volume_3/T03, n0188 - Histoire de la princesse Boudour.jpg 
+Graphic file (type jpg)
+<use illustrations/volume_3/T03, n0188 - Histoire de la princesse Boudour.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0188 - Histoire de la pri
+ncesse Boudour.jpg  used on input line 26.
+(pdftex.def)             Requested size: 205.56615pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+
+ []
+
+[47 <./illustrations/volume_3/T03, n0188 - Histoire de la princesse Boudour.jpg
+>]
+Overfull \hbox (2.64627pt too wide) in paragraph at lines 38--39
+\T1/lmr/bx/n/17.28 (-20) The tale of Ka-mar al-Zaman and princess Budur 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+<illustrations/volume_3/T03, n0222 - Histoire de la princesse Boudour.jpg, id=2
+63, 84.315pt x 105.87555pt>
+File: illustrations/volume_3/T03, n0222 - Histoire de la princesse Boudour.jpg 
+Graphic file (type jpg)
+<use illustrations/volume_3/T03, n0222 - Histoire de la princesse Boudour.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0222 - Histoire de la pri
+ncesse Boudour.jpg  used on input line 42.
+(pdftex.def)             Requested size: 203.9271pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+[48 <./illustrations/volume_3/T03, n0222 - Histoire de la princesse Boudour.jpg
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+<illustrations/volume_3/T03, n0238 - Histoire de Bel-Heureux et de Belle-Heureu
+se.jpg, id=268, 924.45375pt x 1151.30125pt>
+File: illustrations/volume_3/T03, n0238 - Histoire de Bel-Heureux et de Belle-H
+eureuse.jpg Graphic file (type jpg)
+<use illustrations/volume_3/T03, n0238 - Histoire de Bel-Heureux et de Belle-He
+ureuse.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0238 - Histoire de Bel-He
+ureux et de Belle-Heureuse.jpg  used on input line 58.
+(pdftex.def)             Requested size: 205.60919pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+
+ []
+
+[49 <./illustrations/volume_3/T03, n0238 - Histoire de Bel-Heureux et de Belle-
+Heureuse.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<illustrations/volume_3/T03, n0246 - Histoire de Bel-Heureux et de Belle-Heureu
+se.jpg, id=272, 307.74976pt x 384.2355pt>
+File: illustrations/volume_3/T03, n0246 - Histoire de Bel-Heureux et de Belle-H
+eureuse.jpg Graphic file (type jpg)
+<use illustrations/volume_3/T03, n0246 - Histoire de Bel-Heureux et de Belle-He
+ureuse.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0246 - Histoire de Bel-He
+ureux et de Belle-Heureuse.jpg  used on input line 74.
+(pdftex.def)             Requested size: 205.1065pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+[50 <./illustrations/volume_3/T03, n0246 - Histoire de Bel-Heureux et de Belle-
+Heureuse.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<illustrations/volume_3/T03, n0259 - Histoire de Grain-de-beauté.jpg, id=276, 
+84.315pt x 105.5142pt>
+File: illustrations/volume_3/T03, n0259 - Histoire de Grain-de-beauté.jpg Grap
+hic file (type jpg)
+<use illustrations/volume_3/T03, n0259 - Histoire de Grain-de-beauté.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0259 - Histoire de Grain-
+de-beauté.jpg  used on input line 90.
+(pdftex.def)             Requested size: 204.6527pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--98
+
+ []
+
+[51 <./illustrations/volume_3/T03, n0259 - Histoire de Grain-de-beauté.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+<illustrations/volume_3/T03, n0269 - Histoire de Grain-de-beauté.jpg, id=280, 
+669.702pt x 843.15pt>
+File: illustrations/volume_3/T03, n0269 - Histoire de Grain-de-beauté.jpg Grap
+hic file (type jpg)
+<use illustrations/volume_3/T03, n0269 - Histoire de Grain-de-beauté.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0269 - Histoire de Grain-
+de-beauté.jpg  used on input line 106.
+(pdftex.def)             Requested size: 203.39532pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+ []
+
+[52 <./illustrations/volume_3/T03, n0269 - Histoire de Grain-de-beauté.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+<illustrations/volume_3/T03, n0272 - Histoire de la docte Sympathie.jpg, id=284
+, 679.338pt x 843.15pt>
+File: illustrations/volume_3/T03, n0272 - Histoire de la docte Sympathie.jpg Gr
+aphic file (type jpg)
+<use illustrations/volume_3/T03, n0272 - Histoire de la docte Sympathie.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0272 - Histoire de la doc
+te Sympathie.jpg  used on input line 122.
+(pdftex.def)             Requested size: 206.32187pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--130
+
+ []
+
+[53 <./illustrations/volume_3/T03, n0272 - Histoire de la docte Sympathie.jpg>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+<illustrations/volume_3/T03, n0287 - Aventures du poète Abou-Nowas.jpg, id=288
+, 84.315pt x 104.91196pt>
+File: illustrations/volume_3/T03, n0287 - Aventures du poète Abou-Nowas.jpg Gr
+aphic file (type jpg)
+<use illustrations/volume_3/T03, n0287 - Aventures du poète Abou-Nowas.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0287 - Aventures du poèt
+e Abou-Nowas.jpg  used on input line 138.
+(pdftex.def)             Requested size: 205.81058pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
+
+ []
+
+[54 <./illustrations/volume_3/T03, n0287 - Aventures du poète Abou-Nowas.jpg>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+<illustrations/volume_3/T03, n0292 - Sindbad le marin [La première histoire].j
+pg, id=293, 676.929pt x 843.15pt>
+File: illustrations/volume_3/T03, n0292 - Sindbad le marin [La première histoi
+re].jpg Graphic file (type jpg)
+<use illustrations/volume_3/T03, n0292 - Sindbad le marin [La première histoir
+e].jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0292 - Sindbad le marin [
+La première histoire].jpg  used on input line 154.
+(pdftex.def)             Requested size: 205.59024pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--162
+
+ []
+
+[55 <./illustrations/volume_3/T03, n0292 - Sindbad le marin [La première histo
+ire].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+<illustrations/volume_3/T03, n0296 - Sindbad le marin [La seconde histoire].jpg
+, id=297, 664.884pt x 823.878pt>
+File: illustrations/volume_3/T03, n0296 - Sindbad le marin [La seconde histoire
+].jpg Graphic file (type jpg)
+<use illustrations/volume_3/T03, n0296 - Sindbad le marin [La seconde histoire]
+.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0296 - Sindbad le marin [
+La seconde histoire].jpg  used on input line 170.
+(pdftex.def)             Requested size: 206.64961pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--178
+
+ []
+
+[56 <./illustrations/volume_3/T03, n0296 - Sindbad le marin [La seconde histoir
+e].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+<illustrations/volume_3/T03, n0316 - Histoire de la belle Zoumouroud.jpg, id=30
+1, 84.315pt x 104.67105pt>
+File: illustrations/volume_3/T03, n0316 - Histoire de la belle Zoumouroud.jpg G
+raphic file (type jpg)
+<use illustrations/volume_3/T03, n0316 - Histoire de la belle Zoumouroud.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0316 - Histoire de la bel
+le Zoumouroud.jpg  used on input line 186.
+(pdftex.def)             Requested size: 206.30205pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
+
+ []
+
+[57 <./illustrations/volume_3/T03, n0316 - Histoire de la belle Zoumouroud.jpg>
+]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+<illustrations/volume_3/T03, n0331 - Histoire de la belle Zoumouroud.jpg, id=30
+5, 793.16325pt x 984.67876pt>
+File: illustrations/volume_3/T03, n0331 - Histoire de la belle Zoumouroud.jpg G
+raphic file (type jpg)
+<use illustrations/volume_3/T03, n0331 - Histoire de la belle Zoumouroud.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0331 - Histoire de la bel
+le Zoumouroud.jpg  used on input line 202.
+(pdftex.def)             Requested size: 206.26599pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--210
+
+ []
+
+[58 <./illustrations/volume_3/T03, n0331 - Histoire de la belle Zoumouroud.jpg>
+]
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+<illustrations/volume_3/T03, n0332 - Histoire des six adolescentes aux couleurs
+ différentes.jpg, id=309, 1127.21124pt x 1405.25pt>
+File: illustrations/volume_3/T03, n0332 - Histoire des six adolescentes aux cou
+leurs différentes.jpg Graphic file (type jpg)
+<use illustrations/volume_3/T03, n0332 - Histoire des six adolescentes aux coul
+eurs différentes.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0332 - Histoire des six a
+dolescentes aux couleurs différentes.jpg  used on input line 218.
+(pdftex.def)             Requested size: 205.40044pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
+
+ []
+
+[59 <./illustrations/volume_3/T03, n0332 - Histoire des six adolescentes aux co
+uleurs différentes.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+<illustrations/volume_3/T03, n0343 - Histoire de la ville d'airain.jpg, id=313,
+ 724.50674pt x 897.95474pt>
+File: illustrations/volume_3/T03, n0343 - Histoire de la ville d'airain.jpg Gra
+phic file (type jpg)
+<use illustrations/volume_3/T03, n0343 - Histoire de la ville d'airain.jpg>
+Package pdftex.def Info: illustrations/volume_3/T03, n0343 - Histoire de la vil
+le d'airain.jpg  used on input line 234.
+(pdftex.def)             Requested size: 206.60817pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--242
+
+ []
+
+) [60 <./illustrations/volume_3/T03, n0343 - Histoire de la ville d'airain.jpg>
+]
+Volume 4.
+[61
+
+] (./sections/volume_4.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+<illustrations/volume_4/T04, n0348 - Histoire d’Ibn Al-Mansour avec les deux 
+adolescentes.jpg, id=321, 84.315pt x 104.5506pt>
+File: illustrations/volume_4/T04, n0348 - Histoire d’Ibn Al-Mansour avec les 
+deux adolescentes.jpg Graphic file (type jpg)
+<use illustrations/volume_4/T04, n0348 - Histoire d’Ibn Al-Mansour avec les d
+eux adolescentes.jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0348 - Histoire d’Ibn A
+l-Mansour avec les deux adolescentes.jpg  used on input line 10.
+(pdftex.def)             Requested size: 206.54906pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+[62 <./illustrations/volume_4/T04, n0348 - Histoire d’Ibn Al-Mansour avec les
+ deux adolescentes.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+<illustrations/volume_4/T04, n0353 - Histoire de Wardân le boucher avec la fil
+le du vizir.jpg, id=325, 1122.1925pt x 1405.25pt>
+File: illustrations/volume_4/T04, n0353 - Histoire de Wardân le boucher avec l
+a fille du vizir.jpg Graphic file (type jpg)
+<use illustrations/volume_4/T04, n0353 - Histoire de Wardân le boucher avec la
+ fille du vizir.jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0353 - Histoire de Wardâ
+n le boucher avec la fille du vizir.jpg  used on input line 26.
+(pdftex.def)             Requested size: 204.48593pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+
+ []
+
+[63 <./illustrations/volume_4/T04, n0353 - Histoire de Wardân le boucher avec 
+la fille du vizir.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+<illustrations/volume_4/T04, n0357 - Histoire de la reine Yamlika.jpg, id=329, 
+84.315pt x 104.5506pt>
+File: illustrations/volume_4/T04, n0357 - Histoire de la reine Yamlika.jpg Grap
+hic file (type jpg)
+<use illustrations/volume_4/T04, n0357 - Histoire de la reine Yamlika.jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0357 - Histoire de la rei
+ne Yamlika.jpg  used on input line 42.
+(pdftex.def)             Requested size: 206.54906pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+[64 <./illustrations/volume_4/T04, n0357 - Histoire de la reine Yamlika.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+<illustrations/volume_4/T04, n0360 - Histoire de la reine Yamlika.jpg, id=333, 
+776.30025pt x 960.58875pt>
+File: illustrations/volume_4/T04, n0360 - Histoire de la reine Yamlika.jpg Grap
+hic file (type jpg)
+<use illustrations/volume_4/T04, n0360 - Histoire de la reine Yamlika.jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0360 - Histoire de la rei
+ne Yamlika.jpg  used on input line 58.
+(pdftex.def)             Requested size: 206.9505pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+
+ []
+
+[65 <./illustrations/volume_4/T04, n0360 - Histoire de la reine Yamlika.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<illustrations/volume_4/T04, n0375 - Le parterre fleuri de l'esprit [Le jouvenc
+eau et son maître].jpg, id=337, 661.87276pt x 843.15pt>
+File: illustrations/volume_4/T04, n0375 - Le parterre fleuri de l'esprit [Le jo
+uvenceau et son maître].jpg Graphic file (type jpg)
+<use illustrations/volume_4/T04, n0375 - Le parterre fleuri de l'esprit [Le jou
+venceau et son maître].jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0375 - Le parterre fleuri
+ de l'esprit [Le jouvenceau et son maître].jpg  used on input line 74.
+(pdftex.def)             Requested size: 201.0175pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+[66 <./illustrations/volume_4/T04, n0375 - Le parterre fleuri de l'esprit [Le j
+ouvenceau et son maître].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<illustrations/volume_4/T04, n0380 - Le parterre fleuri de l'esprit [L'âne].jp
+g, id=342, 353.76923pt x 439.17923pt>
+File: illustrations/volume_4/T04, n0380 - Le parterre fleuri de l'esprit [L'ân
+e].jpg Graphic file (type jpg)
+<use illustrations/volume_4/T04, n0380 - Le parterre fleuri de l'esprit [L'âne
+].jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0380 - Le parterre fleuri
+ de l'esprit [L'âne].jpg  used on input line 90.
+(pdftex.def)             Requested size: 206.28209pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--98
+
+ []
+
+[67 <./illustrations/volume_4/T04, n0380 - Le parterre fleuri de l'esprit [L'â
+ne].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+<illustrations/volume_4/T04, n0394 - L'étrange Khalifat.jpg, id=346, 672.71326
+pt x 843.15pt>
+File: illustrations/volume_4/T04, n0394 - L'étrange Khalifat.jpg Graphic file 
+(type jpg)
+<use illustrations/volume_4/T04, n0394 - L'étrange Khalifat.jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0394 - L'étrange Khalifa
+t.jpg  used on input line 106.
+(pdftex.def)             Requested size: 204.30986pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+ []
+
+[68 <./illustrations/volume_4/T04, n0394 - L'étrange Khalifat.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+<illustrations/volume_4/T04, n0397 - L'étrange Khalifat.jpg, id=350, 348.71538
+pt x 436.65231pt>
+File: illustrations/volume_4/T04, n0397 - L'étrange Khalifat.jpg Graphic file 
+(type jpg)
+<use illustrations/volume_4/T04, n0397 - L'étrange Khalifat.jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0397 - L'étrange Khalifa
+t.jpg  used on input line 122.
+(pdftex.def)             Requested size: 204.51114pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--130
+
+ []
+
+[69 <./illustrations/volume_4/T04, n0397 - L'étrange Khalifat.jpg>]
+Overfull \hbox (7.39973pt too wide) in paragraph at lines 134--135
+\T1/lmr/bx/n/17.28 (-20) The tale of Rose-in-the-Bud and World's-Delight 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+<illustrations/volume_4/T04, n0406 - Histoire de Rose-dans-le-Calice et de Dél
+ice-du-Monde.jpg, id=354, 84.315pt x 105.39375pt>
+File: illustrations/volume_4/T04, n0406 - Histoire de Rose-dans-le-Calice et de
+ Délice-du-Monde.jpg Graphic file (type jpg)
+<use illustrations/volume_4/T04, n0406 - Histoire de Rose-dans-le-Calice et de 
+Délice-du-Monde.jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0406 - Histoire de Rose-d
+ans-le-Calice et de Délice-du-Monde.jpg  used on input line 138.
+(pdftex.def)             Requested size: 204.89456pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
+
+ []
+
+[70 <./illustrations/volume_4/T04, n0406 - Histoire de Rose-dans-le-Calice et d
+e Délice-du-Monde.jpg>]
+Overfull \hbox (7.39973pt too wide) in paragraph at lines 150--151
+\T1/lmr/bx/n/17.28 (-20) The tale of Rose-in-the-Bud and World's-Delight 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+<illustrations/volume_4/T04, n0409 - Histoire de Rose-dans-le-Calice et de Dél
+ice-du-Monde.jpg, id=358, 84.315pt x 105.5142pt>
+File: illustrations/volume_4/T04, n0409 - Histoire de Rose-dans-le-Calice et de
+ Délice-du-Monde.jpg Graphic file (type jpg)
+<use illustrations/volume_4/T04, n0409 - Histoire de Rose-dans-le-Calice et de 
+Délice-du-Monde.jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0409 - Histoire de Rose-d
+ans-le-Calice et de Délice-du-Monde.jpg  used on input line 154.
+(pdftex.def)             Requested size: 204.6527pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--162
+
+ []
+
+[71 <./illustrations/volume_4/T04, n0409 - Histoire de Rose-dans-le-Calice et d
+e Délice-du-Monde.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+<illustrations/volume_4/T04, n0414 - Histoire magique du cheval d'ébène.jpg, 
+id=362, 346.69385pt x 436.14693pt>
+File: illustrations/volume_4/T04, n0414 - Histoire magique du cheval d'ébène.
+jpg Graphic file (type jpg)
+<use illustrations/volume_4/T04, n0414 - Histoire magique du cheval d'ébène.j
+pg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0414 - Histoire magique d
+u cheval d'ébène.jpg  used on input line 170.
+(pdftex.def)             Requested size: 203.56363pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--178
+
+ []
+
+[72 <./illustrations/volume_4/T04, n0414 - Histoire magique du cheval d'ébène
+.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+<illustrations/volume_4/T04, n0422 - Histoire magique du cheval d'ébène.jpg, 
+id=367, 735.34724pt x 910.602pt>
+File: illustrations/volume_4/T04, n0422 - Histoire magique du cheval d'ébène.
+jpg Graphic file (type jpg)
+<use illustrations/volume_4/T04, n0422 - Histoire magique du cheval d'ébène.j
+pg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0422 - Histoire magique d
+u cheval d'ébène.jpg  used on input line 186.
+(pdftex.def)             Requested size: 206.78224pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
+
+ []
+
+[73 <./illustrations/volume_4/T04, n0422 - Histoire magique du cheval d'ébène
+.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+<illustrations/volume_4/T04, n0433 - Histoire des artifices de Dalila-la-Rouée
+.jpg, id=371, 84.315pt x 105.15285pt>
+File: illustrations/volume_4/T04, n0433 - Histoire des artifices de Dalila-la-R
+ouée.jpg Graphic file (type jpg)
+<use illustrations/volume_4/T04, n0433 - Histoire des artifices de Dalila-la-Ro
+uée.jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0433 - Histoire des artif
+ices de Dalila-la-Rouée.jpg  used on input line 202.
+(pdftex.def)             Requested size: 205.38217pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--210
+
+ []
+
+[74 <./illustrations/volume_4/T04, n0433 - Histoire des artifices de Dalila-la-
+Rouée.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+<illustrations/volume_4/T04, n0437 - Histoire des artifices de Dalila-la-Rouée
+.jpg, id=375, 84.315pt x 105.5142pt>
+File: illustrations/volume_4/T04, n0437 - Histoire des artifices de Dalila-la-R
+ouée.jpg Graphic file (type jpg)
+<use illustrations/volume_4/T04, n0437 - Histoire des artifices de Dalila-la-Ro
+uée.jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0437 - Histoire des artif
+ices de Dalila-la-Rouée.jpg  used on input line 218.
+(pdftex.def)             Requested size: 204.6527pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
+
+ []
+
+[75 <./illustrations/volume_4/T04, n0437 - Histoire des artifices de Dalila-la-
+Rouée.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+<illustrations/volume_4/T04, n0466 - Histoire de Jouder le pêcheur.jpg, id=379
+, 84.315pt x 103.46655pt>
+File: illustrations/volume_4/T04, n0466 - Histoire de Jouder le pêcheur.jpg Gr
+aphic file (type jpg)
+<use illustrations/volume_4/T04, n0466 - Histoire de Jouder le pêcheur.jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0466 - Histoire de Jouder
+ le pêcheur.jpg  used on input line 234.
+(pdftex.def)             Requested size: 208.73361pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--242
+
+ []
+
+[76 <./illustrations/volume_4/T04, n0466 - Histoire de Jouder le pêcheur.jpg>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+<illustrations/volume_4/T04, n0470 - Histoire de Jouder le pêcheur.jpg, id=383
+, 84.315pt x 104.67105pt>
+File: illustrations/volume_4/T04, n0470 - Histoire de Jouder le pêcheur.jpg Gr
+aphic file (type jpg)
+<use illustrations/volume_4/T04, n0470 - Histoire de Jouder le pêcheur.jpg>
+Package pdftex.def Info: illustrations/volume_4/T04, n0470 - Histoire de Jouder
+ le pêcheur.jpg  used on input line 250.
+(pdftex.def)             Requested size: 206.30205pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--258
+
+ []
+
+) [77 <./illustrations/volume_4/T04, n0470 - Histoire de Jouder le pêcheur.jpg
+>]
+Volume 5.
+[78
+
+] (./sections/volume_5.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+<illustrations/volume_5/T05, n0488 - Histoire d'Abou-Kir et d'Abou-Sir.jpg, id=
+391, 675.7245pt x 843.15pt>
+File: illustrations/volume_5/T05, n0488 - Histoire d'Abou-Kir et d'Abou-Sir.jpg
+ Graphic file (type jpg)
+<use illustrations/volume_5/T05, n0488 - Histoire d'Abou-Kir et d'Abou-Sir.jpg>
+
+Package pdftex.def Info: illustrations/volume_5/T05, n0488 - Histoire d'Abou-Ki
+r et d'Abou-Sir.jpg  used on input line 10.
+(pdftex.def)             Requested size: 205.22441pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+[79 <./illustrations/volume_5/T05, n0488 - Histoire d'Abou-Kir et d'Abou-Sir.jp
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+<illustrations/volume_5/T05, n0494 - Histoire d'Abou-Kir et d'Abou-Sir.jpg, id=
+395, 281.1303pt x 348.1005pt>
+File: illustrations/volume_5/T05, n0494 - Histoire d'Abou-Kir et d'Abou-Sir.jpg
+ Graphic file (type jpg)
+<use illustrations/volume_5/T05, n0494 - Histoire d'Abou-Kir et d'Abou-Sir.jpg>
+
+Package pdftex.def Info: illustrations/volume_5/T05, n0494 - Histoire d'Abou-Ki
+r et d'Abou-Sir.jpg  used on input line 26.
+(pdftex.def)             Requested size: 206.8106pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+
+ []
+
+[80 <./illustrations/volume_5/T05, n0494 - Histoire d'Abou-Kir et d'Abou-Sir.jp
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+<illustrations/volume_5/T05, n0506 - Histoire d'Abdallah de la terre et d'Abdal
+lah de la mer.jpg, id=399, 679.338pt x 842.54774pt>
+File: illustrations/volume_5/T05, n0506 - Histoire d'Abdallah de la terre et d'
+Abdallah de la mer.jpg Graphic file (type jpg)
+<use illustrations/volume_5/T05, n0506 - Histoire d'Abdallah de la terre et d'A
+bdallah de la mer.jpg>
+Package pdftex.def Info: illustrations/volume_5/T05, n0506 - Histoire d'Abdalla
+h de la terre et d'Abdallah de la mer.jpg  used on input line 42.
+(pdftex.def)             Requested size: 206.467pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+[81 <./illustrations/volume_5/T05, n0506 - Histoire d'Abdallah de la terre et d
+'Abdallah de la mer.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+<illustrations/volume_5/T05, n0513 - Histoire d'Abdallah de la terre et d'Abdal
+lah de la mer.jpg, id=403, 679.338pt x 843.15pt>
+File: illustrations/volume_5/T05, n0513 - Histoire d'Abdallah de la terre et d'
+Abdallah de la mer.jpg Graphic file (type jpg)
+<use illustrations/volume_5/T05, n0513 - Histoire d'Abdallah de la terre et d'A
+bdallah de la mer.jpg>
+Package pdftex.def Info: illustrations/volume_5/T05, n0513 - Histoire d'Abdalla
+h de la terre et d'Abdallah de la mer.jpg  used on input line 58.
+(pdftex.def)             Requested size: 206.32187pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+
+ []
+
+[82 <./illustrations/volume_5/T05, n0513 - Histoire d'Abdallah de la terre et d
+'Abdallah de la mer.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<illustrations/volume_5/T05, n0516 - Histoire du jeune homme jaune.jpg, id=407,
+ 84.315pt x 104.67105pt>
+File: illustrations/volume_5/T05, n0516 - Histoire du jeune homme jaune.jpg Gra
+phic file (type jpg)
+<use illustrations/volume_5/T05, n0516 - Histoire du jeune homme jaune.jpg>
+Package pdftex.def Info: illustrations/volume_5/T05, n0516 - Histoire du jeune 
+homme jaune.jpg  used on input line 74.
+(pdftex.def)             Requested size: 206.30205pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+[83 <./illustrations/volume_5/T05, n0516 - Histoire du jeune homme jaune.jpg>]
+Overfull \hbox (8.29025pt too wide) in paragraph at lines 86--87
+\T1/lmr/bx/n/17.28 (-20) The tale of Pomegranate-Flower and Badr Basim 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<illustrations/volume_5/T05, n0527 - Histoire de Fleur-de-Grenade et de Sourire
+-de-Lune.jpg, id=411, 84.315pt x 105.2733pt>
+File: illustrations/volume_5/T05, n0527 - Histoire de Fleur-de-Grenade et de So
+urire-de-Lune.jpg Graphic file (type jpg)
+<use illustrations/volume_5/T05, n0527 - Histoire de Fleur-de-Grenade et de Sou
+rire-de-Lune.jpg>
+Package pdftex.def Info: illustrations/volume_5/T05, n0527 - Histoire de Fleur-
+de-Grenade et de Sourire-de-Lune.jpg  used on input line 90.
+(pdftex.def)             Requested size: 205.139pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--98
+
+ []
+
+[84 <./illustrations/volume_5/T05, n0527 - Histoire de Fleur-de-Grenade et de S
+ourire-de-Lune.jpg>]
+Overfull \hbox (8.29025pt too wide) in paragraph at lines 102--103
+\T1/lmr/bx/n/17.28 (-20) The tale of Pomegranate-Flower and Badr Basim 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+<illustrations/volume_5/T05, n0541 - Histoire de Fleur-de-Grenade et de Sourire
+-de-Lune.jpg, id=416, 84.315pt x 105.5142pt>
+File: illustrations/volume_5/T05, n0541 - Histoire de Fleur-de-Grenade et de So
+urire-de-Lune.jpg Graphic file (type jpg)
+<use illustrations/volume_5/T05, n0541 - Histoire de Fleur-de-Grenade et de Sou
+rire-de-Lune.jpg>
+Package pdftex.def Info: illustrations/volume_5/T05, n0541 - Histoire de Fleur-
+de-Grenade et de Sourire-de-Lune.jpg  used on input line 106.
+(pdftex.def)             Requested size: 204.6527pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+ []
+
+[85 <./illustrations/volume_5/T05, n0541 - Histoire de Fleur-de-Grenade et de S
+ourire-de-Lune.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+<illustrations/volume_5/T05, n0555 - Histoire de Khalife et du khalifat.jpg, id
+=420, 84.315pt x 105.2733pt>
+File: illustrations/volume_5/T05, n0555 - Histoire de Khalife et du khalifat.jp
+g Graphic file (type jpg)
+<use illustrations/volume_5/T05, n0555 - Histoire de Khalife et du khalifat.jpg
+>
+Package pdftex.def Info: illustrations/volume_5/T05, n0555 - Histoire de Khalif
+e et du khalifat.jpg  used on input line 122.
+(pdftex.def)             Requested size: 205.139pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--130
+
+ []
+
+[86 <./illustrations/volume_5/T05, n0555 - Histoire de Khalife et du khalifat.j
+pg>]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+<illustrations/volume_5/T05, n0571 - Histoire de Khalife et du khalifat.jpg, id
+=424, 84.315pt x 105.39375pt>
+File: illustrations/volume_5/T05, n0571 - Histoire de Khalife et du khalifat.jp
+g Graphic file (type jpg)
+<use illustrations/volume_5/T05, n0571 - Histoire de Khalife et du khalifat.jpg
+>
+Package pdftex.def Info: illustrations/volume_5/T05, n0571 - Histoire de Khalif
+e et du khalifat.jpg  used on input line 138.
+(pdftex.def)             Requested size: 204.89456pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
+
+ []
+
+[87 <./illustrations/volume_5/T05, n0571 - Histoire de Khalife et du khalifat.j
+pg>]
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+<illustrations/volume_5/T05, n0580 - Les aventures de Hassân Al-Bassri.jpg, id
+=428, 84.315pt x 104.0688pt>
+File: illustrations/volume_5/T05, n0580 - Les aventures de Hassân Al-Bassri.jp
+g Graphic file (type jpg)
+<use illustrations/volume_5/T05, n0580 - Les aventures de Hassân Al-Bassri.jpg
+>
+Package pdftex.def Info: illustrations/volume_5/T05, n0580 - Les aventures de H
+assân Al-Bassri.jpg  used on input line 154.
+(pdftex.def)             Requested size: 207.47923pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--162
+
+ []
+
+[88 <./illustrations/volume_5/T05, n0580 - Les aventures de Hassân Al-Bassri.j
+pg>]
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+<illustrations/volume_5/T05, n0596(1) - Les aventures de Hassân Al-Bassri.jpg,
+ id=433, 84.45576pt x 104.48384pt>
+File: illustrations/volume_5/T05, n0596(1) - Les aventures de Hassân Al-Bassri
+.jpg Graphic file (type jpg)
+<use illustrations/volume_5/T05, n0596(1) - Les aventures de Hassân Al-Bassri.
+jpg>
+Package pdftex.def Info: illustrations/volume_5/T05, n0596(1) - Les aventures d
+e Hassân Al-Bassri.jpg  used on input line 170.
+(pdftex.def)             Requested size: 207.01764pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--178
+
+ []
+
+[89 <./illustrations/volume_5/T05, n0596(1) - Les aventures de Hassân Al-Bassr
+i.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+<illustrations/volume_5/T05, n0596(2) - Les aventures de Hassân Al-Bassri.jpg,
+ id=437, 84.315pt x 104.18925pt>
+File: illustrations/volume_5/T05, n0596(2) - Les aventures de Hassân Al-Bassri
+.jpg Graphic file (type jpg)
+<use illustrations/volume_5/T05, n0596(2) - Les aventures de Hassân Al-Bassri.
+jpg>
+Package pdftex.def Info: illustrations/volume_5/T05, n0596(2) - Les aventures d
+e Hassân Al-Bassri.jpg  used on input line 186.
+(pdftex.def)             Requested size: 207.23093pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
+
+ []
+
+[90 <./illustrations/volume_5/T05, n0596(2) - Les aventures de Hassân Al-Bassr
+i.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+<illustrations/volume_5/T05, n0607 - Les aventures de Hassân Al-Bassri.jpg, id
+=442, 676.32675pt x 843.15pt>
+File: illustrations/volume_5/T05, n0607 - Les aventures de Hassân Al-Bassri.jp
+g Graphic file (type jpg)
+<use illustrations/volume_5/T05, n0607 - Les aventures de Hassân Al-Bassri.jpg
+>
+Package pdftex.def Info: illustrations/volume_5/T05, n0607 - Les aventures de H
+assân Al-Bassri.jpg  used on input line 202.
+(pdftex.def)             Requested size: 205.40732pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--210
+
+ []
+
+[91 <./illustrations/volume_5/T05, n0607 - Les aventures de Hassân Al-Bassri.j
+pg>]
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+<illustrations/volume_5/T05, n0622 - Histoire du dormeur éveillé.jpg, id=446,
+ 84.315pt x 104.67105pt>
+File: illustrations/volume_5/T05, n0622 - Histoire du dormeur éveillé.jpg Gra
+phic file (type jpg)
+<use illustrations/volume_5/T05, n0622 - Histoire du dormeur éveillé.jpg>
+Package pdftex.def Info: illustrations/volume_5/T05, n0622 - Histoire du dormeu
+r éveillé.jpg  used on input line 218.
+(pdftex.def)             Requested size: 206.30205pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
+
+ []
+
+[92 <./illustrations/volume_5/T05, n0622 - Histoire du dormeur éveillé.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+<illustrations/volume_5/T05, n0629 - Histoire du dormeur éveillé.jpg, id=450,
+ 84.315pt x 105.39375pt>
+File: illustrations/volume_5/T05, n0629 - Histoire du dormeur éveillé.jpg Gra
+phic file (type jpg)
+<use illustrations/volume_5/T05, n0629 - Histoire du dormeur éveillé.jpg>
+Package pdftex.def Info: illustrations/volume_5/T05, n0629 - Histoire du dormeu
+r éveillé.jpg  used on input line 234.
+(pdftex.def)             Requested size: 204.89456pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--242
+
+ []
+
+[93 <./illustrations/volume_5/T05, n0629 - Histoire du dormeur éveillé.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+<illustrations/volume_5/T05, n0659 - Les amours de Zein Al-Mawassif.jpg, id=454
+, 84.315pt x 105.2733pt>
+File: illustrations/volume_5/T05, n0659 - Les amours de Zein Al-Mawassif.jpg Gr
+aphic file (type jpg)
+<use illustrations/volume_5/T05, n0659 - Les amours de Zein Al-Mawassif.jpg>
+Package pdftex.def Info: illustrations/volume_5/T05, n0659 - Les amours de Zein
+ Al-Mawassif.jpg  used on input line 250.
+(pdftex.def)             Requested size: 205.139pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--258
+
+ []
+
+[94 <./illustrations/volume_5/T05, n0659 - Les amours de Zein Al-Mawassif.jpg>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+<illustrations/volume_5/T05, n0663 - Les amours de Zein Al-Mawassif.jpg, id=458
+, 84.315pt x 104.5506pt>
+File: illustrations/volume_5/T05, n0663 - Les amours de Zein Al-Mawassif.jpg Gr
+aphic file (type jpg)
+<use illustrations/volume_5/T05, n0663 - Les amours de Zein Al-Mawassif.jpg>
+Package pdftex.def Info: illustrations/volume_5/T05, n0663 - Les amours de Zein
+ Al-Mawassif.jpg  used on input line 266.
+(pdftex.def)             Requested size: 206.54906pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--274
+
+ []
+
+) [95 <./illustrations/volume_5/T05, n0663 - Les amours de Zein Al-Mawassif.jpg
+>]
+Volume 6.
+[96
+
+] (./sections/volume_6.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+<illustrations/volume_6/T06, n0704 - Histoire du jeune Nour avec la franque hé
+roïque.jpg, id=466, 84.315pt x 105.39375pt>
+File: illustrations/volume_6/T06, n0704 - Histoire du jeune Nour avec la franqu
+e héroïque.jpg Graphic file (type jpg)
+<use illustrations/volume_6/T06, n0704 - Histoire du jeune Nour avec la franque
+ héroïque.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0704 - Histoire du jeune 
+Nour avec la franque héroïque.jpg  used on input line 10.
+(pdftex.def)             Requested size: 204.89456pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+[97 <./illustrations/volume_6/T06, n0704 - Histoire du jeune Nour avec la franq
+ue héroïque.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+<illustrations/volume_6/T06, n0722 - Histoire merveilleuse du miroir des vierge
+s.jpg, id=470, 84.315pt x 103.94835pt>
+File: illustrations/volume_6/T06, n0722 - Histoire merveilleuse du miroir des v
+ierges.jpg Graphic file (type jpg)
+<use illustrations/volume_6/T06, n0722 - Histoire merveilleuse du miroir des vi
+erges.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0722 - Histoire merveille
+use du miroir des vierges.jpg  used on input line 26.
+(pdftex.def)             Requested size: 207.72882pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+
+ []
+
+[98 <./illustrations/volume_6/T06, n0722 - Histoire merveilleuse du miroir des 
+vierges.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+<illustrations/volume_6/T06, n0724 - Histoire merveilleuse du miroir des vierge
+s.jpg, id=474, 84.315pt x 104.43015pt>
+File: illustrations/volume_6/T06, n0724 - Histoire merveilleuse du miroir des v
+ierges.jpg Graphic file (type jpg)
+<use illustrations/volume_6/T06, n0724 - Histoire merveilleuse du miroir des vi
+erges.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0724 - Histoire merveille
+use du miroir des vierges.jpg  used on input line 42.
+(pdftex.def)             Requested size: 206.79608pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+[99 <./illustrations/volume_6/T06, n0724 - Histoire merveilleuse du miroir des 
+vierges.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+<illustrations/volume_6/T06, n0736 - Histoire d'Aladdin et de la lampe magique.
+jpg, id=478, 84.315pt x 105.996pt>
+File: illustrations/volume_6/T06, n0736 - Histoire d'Aladdin et de la lampe mag
+ique.jpg Graphic file (type jpg)
+<use illustrations/volume_6/T06, n0736 - Histoire d'Aladdin et de la lampe magi
+que.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0736 - Histoire d'Aladdin
+ et de la lampe magique.jpg  used on input line 58.
+(pdftex.def)             Requested size: 203.74698pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+
+ []
+
+[100 <./illustrations/volume_6/T06, n0736 - Histoire d'Aladdin et de la lampe m
+agique.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<illustrations/volume_6/T06, n0745 - Histoire d'Aladdin et de la lampe magique.
+jpg, id=482, 84.315pt x 107.08005pt>
+File: illustrations/volume_6/T06, n0745 - Histoire d'Aladdin et de la lampe mag
+ique.jpg Graphic file (type jpg)
+<use illustrations/volume_6/T06, n0745 - Histoire d'Aladdin et de la lampe magi
+que.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0745 - Histoire d'Aladdin
+ et de la lampe magique.jpg  used on input line 74.
+(pdftex.def)             Requested size: 201.66534pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+[101 <./illustrations/volume_6/T06, n0745 - Histoire d'Aladdin et de la lampe m
+agique.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<illustrations/volume_6/T06, n0760 - Histoire d'Aladdin et de la lampe magique.
+jpg, id=486, 84.315pt x 105.63464pt>
+File: illustrations/volume_6/T06, n0760 - Histoire d'Aladdin et de la lampe mag
+ique.jpg Graphic file (type jpg)
+<use illustrations/volume_6/T06, n0760 - Histoire d'Aladdin et de la lampe magi
+que.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0760 - Histoire d'Aladdin
+ et de la lampe magique.jpg  used on input line 90.
+(pdftex.def)             Requested size: 204.40955pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--98
+
+ []
+
+[102 <./illustrations/volume_6/T06, n0760 - Histoire d'Aladdin et de la lampe m
+agique.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+<illustrations/volume_6/T06, n0774 - Histoire d’Aladdin et de la lampe magiqu
+e.jpg, id=491, 661.2705pt x 820.2645pt>
+File: illustrations/volume_6/T06, n0774 - Histoire d’Aladdin et de la lampe m
+agique.jpg Graphic file (type jpg)
+<use illustrations/volume_6/T06, n0774 - Histoire d’Aladdin et de la lampe ma
+gique.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0774 - Histoire d’Aladd
+in et de la lampe magique.jpg  used on input line 106.
+(pdftex.def)             Requested size: 206.43462pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+ []
+
+[103 <./illustrations/volume_6/T06, n0774 - Histoire d’Aladdin et de la lampe
+ magique.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+<illustrations/volume_6/T06, n0774 - La parabole de la vraie science de la vie.
+jpg, id=495, 788.34525pt x 981.6675pt>
+File: illustrations/volume_6/T06, n0774 - La parabole de la vraie science de la
+ vie.jpg Graphic file (type jpg)
+<use illustrations/volume_6/T06, n0774 - La parabole de la vraie science de la 
+vie.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0774 - La parabole de la 
+vraie science de la vie.jpg  used on input line 122.
+(pdftex.def)             Requested size: 205.63857pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--130
+
+ []
+
+[104 <./illustrations/volume_6/T06, n0774 - La parabole de la vraie science de 
+la vie.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+<illustrations/volume_6/T06, n0776 - Farizade au sourire de rose.jpg, id=499, 6
+05.8635pt x 747.39224pt>
+File: illustrations/volume_6/T06, n0776 - Farizade au sourire de rose.jpg Graph
+ic file (type jpg)
+<use illustrations/volume_6/T06, n0776 - Farizade au sourire de rose.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0776 - Farizade au sourir
+e de rose.jpg  used on input line 138.
+(pdftex.def)             Requested size: 207.58095pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
+
+ []
+
+[105 <./illustrations/volume_6/T06, n0776 - Farizade au sourire de rose.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+<illustrations/volume_6/T06, n0779 - Farizade au sourire de rose.jpg, id=503, 8
+4.315pt x 105.2733pt>
+File: illustrations/volume_6/T06, n0779 - Farizade au sourire de rose.jpg Graph
+ic file (type jpg)
+<use illustrations/volume_6/T06, n0779 - Farizade au sourire de rose.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0779 - Farizade au sourir
+e de rose.jpg  used on input line 154.
+(pdftex.def)             Requested size: 205.139pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--162
+
+ []
+
+[106 <./illustrations/volume_6/T06, n0779 - Farizade au sourire de rose.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+<illustrations/volume_6/T06, n0781 - Histoire de Kamar et de l’experte Halima
+.jpg, id=507, 84.315pt x 105.0324pt>
+File: illustrations/volume_6/T06, n0781 - Histoire de Kamar et de l’experte H
+alima.jpg Graphic file (type jpg)
+<use illustrations/volume_6/T06, n0781 - Histoire de Kamar et de l’experte Ha
+lima.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0781 - Histoire de Kamar 
+et de l’experte Halima.jpg  used on input line 170.
+(pdftex.def)             Requested size: 205.56615pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--178
+
+ []
+
+[107 <./illustrations/volume_6/T06, n0781 - Histoire de Kamar et de l’experte
+ Halima.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+<illustrations/volume_6/T06, n0792(1) - Les clefs du destin.jpg, id=511, 664.88
+4pt x 823.878pt>
+File: illustrations/volume_6/T06, n0792(1) - Les clefs du destin.jpg Graphic fi
+le (type jpg)
+<use illustrations/volume_6/T06, n0792(1) - Les clefs du destin.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0792(1) - Les clefs du de
+stin.jpg  used on input line 186.
+(pdftex.def)             Requested size: 206.64961pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
+
+ []
+
+[108 <./illustrations/volume_6/T06, n0792(1) - Les clefs du destin.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+<illustrations/volume_6/T06, n0792(2) - Les clefs du destin.jpg, id=516, 353.76
+923pt x 441.70615pt>
+File: illustrations/volume_6/T06, n0792(2) - Les clefs du destin.jpg Graphic fi
+le (type jpg)
+<use illustrations/volume_6/T06, n0792(2) - Les clefs du destin.jpg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0792(2) - Les clefs du de
+stin.jpg  used on input line 202.
+(pdftex.def)             Requested size: 205.09991pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--210
+
+ []
+
+[109 <./illustrations/volume_6/T06, n0792(2) - Les clefs du destin.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+<illustrations/volume_6/T06, n0811 - Histoire de la princesse Nourennahar.jpg, 
+id=520, 353.76923pt x 442.21153pt>
+File: illustrations/volume_6/T06, n0811 - Histoire de la princesse Nourennahar.
+jpg Graphic file (type jpg)
+<use illustrations/volume_6/T06, n0811 - Histoire de la princesse Nourennahar.j
+pg>
+Package pdftex.def Info: illustrations/volume_6/T06, n0811 - Histoire de la pri
+ncesse Nourennahar.jpg  used on input line 218.
+(pdftex.def)             Requested size: 204.8678pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
+
+ []
+
+) [110 <./illustrations/volume_6/T06, n0811 - Histoire de la princesse Nourenna
+har.jpg>]
+Volume 7.
+[111
+
+] (./sections/volume_7.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+<illustrations/volume_7/T07, n0825 - Le trésor sans fond.jpg, id=527, 741.972p
+t x 926.2605pt>
+File: illustrations/volume_7/T07, n0825 - Le trésor sans fond.jpg Graphic file
+ (type jpg)
+<use illustrations/volume_7/T07, n0825 - Le trésor sans fond.jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0825 - Le trésor sans fo
+nd.jpg  used on input line 10.
+(pdftex.def)             Requested size: 205.12413pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+[112 <./illustrations/volume_7/T07, n0825 - Le trésor sans fond.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+<illustrations/volume_7/T07, n0833 - Histoire compliquée de l’adultérin sym
+pathique [Histoire du singe jouvenceau].jpg, id=531, 940.26282pt x 1159.33125pt
+>
+File: illustrations/volume_7/T07, n0833 - Histoire compliquée de l’adultéri
+n sympathique [Histoire du singe jouvenceau].jpg Graphic file (type jpg)
+<use illustrations/volume_7/T07, n0833 - Histoire compliquée de l’adultérin
+ sympathique [Histoire du singe jouvenceau].jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0833 - Histoire compliqu�
+�e de l’adultérin sympathique [Histoire du singe jouvenceau].jpg  used on in
+put line 26.
+(pdftex.def)             Requested size: 207.67625pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+
+ []
+
+[113 <./illustrations/volume_7/T07, n0833 - Histoire compliquée de l’adulté
+rin sympathique [Histoire du singe jouvenceau].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+<illustrations/volume_7/T07, n0840 - Histoire compliquée de l’adultérin sym
+pathique [Histoire du deuxième fou].jpg, id=535, 353.76923pt x 441.70615pt>
+File: illustrations/volume_7/T07, n0840 - Histoire compliquée de l’adultéri
+n sympathique [Histoire du deuxième fou].jpg Graphic file (type jpg)
+<use illustrations/volume_7/T07, n0840 - Histoire compliquée de l’adultérin
+ sympathique [Histoire du deuxième fou].jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0840 - Histoire compliqu�
+�e de l’adultérin sympathique [Histoire du deuxième fou].jpg  used on input
+ line 42.
+(pdftex.def)             Requested size: 205.09991pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+[114 <./illustrations/volume_7/T07, n0840 - Histoire compliquée de l’adulté
+rin sympathique [Histoire du deuxième fou].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+<illustrations/volume_7/T07, n0842 - Histoire compliquée de l’adultérin sym
+pathique [Histoire du deuxième fou].jpg, id=540, 787.94376pt x 990.70125pt>
+File: illustrations/volume_7/T07, n0842 - Histoire compliquée de l’adultéri
+n sympathique [Histoire du deuxième fou].jpg Graphic file (type jpg)
+<use illustrations/volume_7/T07, n0842 - Histoire compliquée de l’adultérin
+ sympathique [Histoire du deuxième fou].jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0842 - Histoire compliqu�
+�e de l’adultérin sympathique [Histoire du deuxième fou].jpg  used on input
+ line 58.
+(pdftex.def)             Requested size: 203.65823pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+
+ []
+
+[115 <./illustrations/volume_7/T07, n0842 - Histoire compliquée de l’adulté
+rin sympathique [Histoire du deuxième fou].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<illustrations/volume_7/T07, n0849 - La malice des épouses [Histoire racontée
+ par le marchand de légumes].jpg, id=544, 84.315pt x 105.15285pt>
+File: illustrations/volume_7/T07, n0849 - La malice des épouses [Histoire raco
+ntée par le marchand de légumes].jpg Graphic file (type jpg)
+<use illustrations/volume_7/T07, n0849 - La malice des épouses [Histoire racon
+tée par le marchand de légumes].jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0849 - La malice des épo
+uses [Histoire racontée par le marchand de légumes].jpg  used on input line 7
+4.
+(pdftex.def)             Requested size: 205.38217pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+[116 <./illustrations/volume_7/T07, n0849 - La malice des épouses [Histoire ra
+contée par le marchand de légumes].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<illustrations/volume_7/T07, n0851 - Histoire d'Ali Baba et des quarante voleur
+s.jpg, id=548, 676.32675pt x 843.15pt>
+File: illustrations/volume_7/T07, n0851 - Histoire d'Ali Baba et des quarante v
+oleurs.jpg Graphic file (type jpg)
+<use illustrations/volume_7/T07, n0851 - Histoire d'Ali Baba et des quarante vo
+leurs.jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0851 - Histoire d'Ali Bab
+a et des quarante voleurs.jpg  used on input line 90.
+(pdftex.def)             Requested size: 205.40732pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--98
+
+ []
+
+[117 <./illustrations/volume_7/T07, n0851 - Histoire d'Ali Baba et des quarante
+ voleurs.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+<illustrations/volume_7/T07, n0855 - Histoire d'Ali Baba et des quarante voleur
+s.jpg, id=552, 84.315pt x 105.15285pt>
+File: illustrations/volume_7/T07, n0855 - Histoire d'Ali Baba et des quarante v
+oleurs.jpg Graphic file (type jpg)
+<use illustrations/volume_7/T07, n0855 - Histoire d'Ali Baba et des quarante vo
+leurs.jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0855 - Histoire d'Ali Bab
+a et des quarante voleurs.jpg  used on input line 106.
+(pdftex.def)             Requested size: 205.38217pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+ []
+
+[118 <./illustrations/volume_7/T07, n0855 - Histoire d'Ali Baba et des quarante
+ voleurs.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+<illustrations/volume_7/T07, n0859 - Histoire d'Ali Baba et des quarante voleur
+s.jpg, id=556, 1126.2075pt x 1403.2425pt>
+File: illustrations/volume_7/T07, n0859 - Histoire d'Ali Baba et des quarante v
+oleurs.jpg Graphic file (type jpg)
+<use illustrations/volume_7/T07, n0859 - Histoire d'Ali Baba et des quarante vo
+leurs.jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0859 - Histoire d'Ali Bab
+a et des quarante voleurs.jpg  used on input line 122.
+(pdftex.def)             Requested size: 205.50967pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--130
+
+ []
+
+[119 <./illustrations/volume_7/T07, n0859 - Histoire d'Ali Baba et des quarante
+ voleurs.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+<illustrations/volume_7/T07, n0860 - Les rencontres d’Al-Rachid.jpg, id=560, 
+84.315pt x 105.63464pt>
+File: illustrations/volume_7/T07, n0860 - Les rencontres d’Al-Rachid.jpg Grap
+hic file (type jpg)
+<use illustrations/volume_7/T07, n0860 - Les rencontres d’Al-Rachid.jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0860 - Les rencontres d�
+�Al-Rachid.jpg  used on input line 138.
+(pdftex.def)             Requested size: 204.40955pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
+
+ []
+
+[120 <./illustrations/volume_7/T07, n0860 - Les rencontres d’Al-Rachid.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+<illustrations/volume_7/T07, n0863 - Les rencontres d’Al-Rachid [Histoire du 
+jeune homme].jpg, id=565, 84.315pt x 106.7187pt>
+File: illustrations/volume_7/T07, n0863 - Les rencontres d’Al-Rachid [Histoir
+e du jeune homme].jpg Graphic file (type jpg)
+<use illustrations/volume_7/T07, n0863 - Les rencontres d’Al-Rachid [Histoire
+ du jeune homme].jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0863 - Les rencontres d�
+�Al-Rachid [Histoire du jeune homme].jpg  used on input line 154.
+(pdftex.def)             Requested size: 202.37424pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--162
+
+ []
+
+[121 <./illustrations/volume_7/T07, n0863 - Les rencontres d’Al-Rachid [Histo
+ire du jeune homme].jpg>]
+Overfull \hbox (8.90872pt too wide) in paragraph at lines 166--167
+\T1/lmr/bx/n/17.28 (-20) The meet-ings of Al-Rashid [The gen-er-ous sheikh] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+<illustrations/volume_7/T07, n0873 - Les rencontres d’Al-Rachid [Histoire du 
+cheikh].jpg, id=569, 84.315pt x 105.39375pt>
+File: illustrations/volume_7/T07, n0873 - Les rencontres d’Al-Rachid [Histoir
+e du cheikh].jpg Graphic file (type jpg)
+<use illustrations/volume_7/T07, n0873 - Les rencontres d’Al-Rachid [Histoire
+ du cheikh].jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0873 - Les rencontres d�
+�Al-Rachid [Histoire du cheikh].jpg  used on input line 170.
+(pdftex.def)             Requested size: 204.89456pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--178
+
+ []
+
+[122 <./illustrations/volume_7/T07, n0873 - Les rencontres d’Al-Rachid [Histo
+ire du cheikh].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+<illustrations/volume_7/T07, n0875 - Les rencontres d'Al-Rachid [Histoire de l'
+aveugle].jpg, id=573, 734.745pt x 926.2605pt>
+File: illustrations/volume_7/T07, n0875 - Les rencontres d'Al-Rachid [Histoire 
+de l'aveugle].jpg Graphic file (type jpg)
+<use illustrations/volume_7/T07, n0875 - Les rencontres d'Al-Rachid [Histoire d
+e l'aveugle].jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0875 - Les rencontres d'A
+l-Rachid [Histoire de l'aveugle].jpg  used on input line 186.
+(pdftex.def)             Requested size: 203.12617pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
+
+ []
+
+[123 <./illustrations/volume_7/T07, n0875 - Les rencontres d'Al-Rachid [Histoir
+e de l'aveugle].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+<illustrations/volume_7/T07, n0881 - Histoire de la princesse Suleika.jpg, id=5
+77, 84.315pt x 105.0324pt>
+File: illustrations/volume_7/T07, n0881 - Histoire de la princesse Suleika.jpg 
+Graphic file (type jpg)
+<use illustrations/volume_7/T07, n0881 - Histoire de la princesse Suleika.jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0881 - Histoire de la pri
+ncesse Suleika.jpg  used on input line 202.
+(pdftex.def)             Requested size: 205.56615pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--210
+
+ []
+
+[124 <./illustrations/volume_7/T07, n0881 - Histoire de la princesse Suleika.jp
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+<illustrations/volume_7/T07, n0882 - Les séances charmantes de l'adolescence n
+onchalante [Le jeune garçon à la tête dure].jpg, id=581, 762.4485pt x 952.75
+95pt>
+File: illustrations/volume_7/T07, n0882 - Les séances charmantes de l'adolesce
+nce nonchalante [Le jeune garçon à la tête dure].jpg Graphic file (type jpg)
+
+<use illustrations/volume_7/T07, n0882 - Les séances charmantes de l'adolescen
+ce nonchalante [Le jeune garçon à la tête dure].jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0882 - Les séances charm
+antes de l'adolescence nonchalante [Le jeune garçon à la tête dure].jpg  use
+d on input line 218.
+(pdftex.def)             Requested size: 204.9215pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
+
+ []
+
+[125 <./illustrations/volume_7/T07, n0882 - Les séances charmantes de l'adoles
+cence nonchalante [Le jeune garçon à la tête dure].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+<illustrations/volume_7/T07, n0884 - Les séances charmantes de l'adolescence n
+onchalante [Histoire du bouc avec la fille du roi].jpg, id=585, 426.393pt x 564
+.9105pt>
+File: illustrations/volume_7/T07, n0884 - Les séances charmantes de l'adolesce
+nce nonchalante [Histoire du bouc avec la fille du roi].jpg Graphic file (type 
+jpg)
+<use illustrations/volume_7/T07, n0884 - Les séances charmantes de l'adolescen
+ce nonchalante [Histoire du bouc avec la fille du roi].jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0884 - Les séances charm
+antes de l'adolescence nonchalante [Histoire du bouc avec la fille du roi].jpg 
+ used on input line 234.
+(pdftex.def)             Requested size: 193.28041pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--242
+
+ []
+
+[126 <./illustrations/volume_7/T07, n0884 - Les séances charmantes de l'adoles
+cence nonchalante [Histoire du bouc avec la fille du roi].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+<illustrations/volume_7/T07, n0902 - Histoire du livre magique.jpg, id=590, 678
+.73575pt x 843.15pt>
+File: illustrations/volume_7/T07, n0902 - Histoire du livre magique.jpg Graphic
+ file (type jpg)
+<use illustrations/volume_7/T07, n0902 - Histoire du livre magique.jpg>
+Package pdftex.def Info: illustrations/volume_7/T07, n0902 - Histoire du livre 
+magique.jpg  used on input line 250.
+(pdftex.def)             Requested size: 206.13896pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--258
+
+ []
+
+) [127 <./illustrations/volume_7/T07, n0902 - Histoire du livre magique.jpg>]
+Volume 8.
+[128
+
+] (./sections/volume_8.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+<illustrations/volume_8/T08, n0905 - Histoire splendide du prince Diamant.jpg, 
+id=597, 735.9495pt x 926.2605pt>
+File: illustrations/volume_8/T08, n0905 - Histoire splendide du prince Diamant.
+jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0905 - Histoire splendide du prince Diamant.j
+pg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0905 - Histoire splendide
+ du prince Diamant.jpg  used on input line 10.
+(pdftex.def)             Requested size: 203.45917pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+[129 <./illustrations/volume_8/T08, n0905 - Histoire splendide du prince Diaman
+t.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+<illustrations/volume_8/T08, n0908 - Histoire splendide du prince Diamant.jpg, 
+id=601, 740.7675pt x 926.2605pt>
+File: illustrations/volume_8/T08, n0908 - Histoire splendide du prince Diamant.
+jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0908 - Histoire splendide du prince Diamant.j
+pg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0908 - Histoire splendide
+ du prince Diamant.jpg  used on input line 26.
+(pdftex.def)             Requested size: 204.79114pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--34
+
+ []
+
+[130 <./illustrations/volume_8/T08, n0908 - Histoire splendide du prince Diaman
+t.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+<illustrations/volume_8/T08, n0924 - Quelques sottises et théories du maître 
+des devises et des ris.jpg, id=605, 676.32675pt x 843.15pt>
+File: illustrations/volume_8/T08, n0924 - Quelques sottises et théories du ma�
+�tre des devises et des ris.jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0924 - Quelques sottises et théories du maî
+tre des devises et des ris.jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0924 - Quelques sottises 
+et théories du maître des devises et des ris.jpg  used on input line 42.
+(pdftex.def)             Requested size: 205.40732pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+[131 <./illustrations/volume_8/T08, n0924 - Quelques sottises et théories du m
+aître des devises et des ris.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+<illustrations/volume_8/T08, n0930 - Histoire de la jouvencelle Chef-d’oeuvre
+-des-Coeurs.jpg, id=609, 768.471pt x 952.7595pt>
+File: illustrations/volume_8/T08, n0930 - Histoire de la jouvencelle Chef-d’o
+euvre-des-Coeurs.jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0930 - Histoire de la jouvencelle Chef-d’oe
+uvre-des-Coeurs.jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0930 - Histoire de la jou
+vencelle Chef-d’oeuvre-des-Coeurs.jpg  used on input line 58.
+(pdftex.def)             Requested size: 206.54015pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--66
+
+ []
+
+[132 <./illustrations/volume_8/T08, n0930 - Histoire de la jouvencelle Chef-d�
+�oeuvre-des-Coeurs.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<illustrations/volume_8/T08, n0936 - Histoire de la jouvencelle Chef-d’oeuvre
+-des-Coeurs.jpg, id=614, 626.34pt x 778.107pt>
+File: illustrations/volume_8/T08, n0936 - Histoire de la jouvencelle Chef-d’o
+euvre-des-Coeurs.jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0936 - Histoire de la jouvencelle Chef-d’oe
+uvre-des-Coeurs.jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0936 - Histoire de la jou
+vencelle Chef-d’oeuvre-des-Coeurs.jpg  used on input line 74.
+(pdftex.def)             Requested size: 206.12895pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+[133 <./illustrations/volume_8/T08, n0936 - Histoire de la jouvencelle Chef-d�
+�oeuvre-des-Coeurs.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+<illustrations/volume_8/T08, n0938 - Histoire de Baïbars [Histoire racontée p
+ar le premier capitaine].jpg, id=618, 705.23476pt x 883.50075pt>
+File: illustrations/volume_8/T08, n0938 - Histoire de Baïbars [Histoire racont
+ée par le premier capitaine].jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0938 - Histoire de Baïbars [Histoire racont�
+�e par le premier capitaine].jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0938 - Histoire de Baïba
+rs [Histoire racontée par le premier capitaine].jpg  used on input line 90.
+(pdftex.def)             Requested size: 204.40523pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--98
+
+ []
+
+[134 <./illustrations/volume_8/T08, n0938 - Histoire de Baïbars [Histoire raco
+ntée par le premier capitaine].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+<illustrations/volume_8/T08, n0941 - Histoire de Baïbars [Histoire racontée p
+ar le troisième capitaine].jpg, id=622, 872.66025pt x 1088.868pt>
+File: illustrations/volume_8/T08, n0941 - Histoire de Baïbars [Histoire racont
+ée par le troisième capitaine].jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0941 - Histoire de Baïbars [Histoire racont�
+�e par le troisième capitaine].jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0941 - Histoire de Baïba
+rs [Histoire racontée par le troisième capitaine].jpg  used on input line 106
+.
+(pdftex.def)             Requested size: 205.22166pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+ []
+
+[135 <./illustrations/volume_8/T08, n0941 - Histoire de Baïbars [Histoire raco
+ntée par le troisième capitaine].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+<illustrations/volume_8/T08, n0942 - Histoire de Baïbars [Histoire racontée p
+ar le quatrième capitaine].jpg, id=626, 614.5359pt x 770.88pt>
+File: illustrations/volume_8/T08, n0942 - Histoire de Baïbars [Histoire racont
+ée par le quatrième capitaine].jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0942 - Histoire de Baïbars [Histoire racont�
+�e par le quatrième capitaine].jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0942 - Histoire de Baïba
+rs [Histoire racontée par le quatrième capitaine].jpg  used on input line 122
+.
+(pdftex.def)             Requested size: 204.13838pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--130
+
+ []
+
+[136 <./illustrations/volume_8/T08, n0942 - Histoire de Baïbars [Histoire raco
+ntée par le quatrième capitaine].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+<illustrations/volume_8/T08, n0948 - Histoire de Baïbars [Histoire racontée p
+ar le sixième capitaine].jpg, id=630, 612.3678pt x 769.1937pt>
+File: illustrations/volume_8/T08, n0948 - Histoire de Baïbars [Histoire racont
+ée par le sixième capitaine].jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0948 - Histoire de Baïbars [Histoire racont�
+�e par le sixième capitaine].jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0948 - Histoire de Baïba
+rs [Histoire racontée par le sixième capitaine].jpg  used on input line 138.
+(pdftex.def)             Requested size: 203.85735pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
+
+ []
+
+[137 <./illustrations/volume_8/T08, n0948 - Histoire de Baïbars [Histoire raco
+ntée par le sixième capitaine].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+<illustrations/volume_8/T08, n0950 - Histoire de Baïbars [Histoire racontée p
+ar le neuvième capitaine].jpg, id=634, 615.9813pt x 770.1573pt>
+File: illustrations/volume_8/T08, n0950 - Histoire de Baïbars [Histoire racont
+ée par le neuvième capitaine].jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0950 - Histoire de Baïbars [Histoire racont�
+�e par le neuvième capitaine].jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0950 - Histoire de Baïba
+rs [Histoire racontée par le neuvième capitaine].jpg  used on input line 154.
+
+(pdftex.def)             Requested size: 204.8159pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--162
+
+ []
+
+[138 <./illustrations/volume_8/T08, n0950 - Histoire de Baïbars [Histoire raco
+ntée par le neuvième capitaine].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+<illustrations/volume_8/T08, n0955 - Histoire de la rose marine et de l'adolesc
+ente de Chine.jpg, id=640, 617.4267pt x 769.4346pt>
+File: illustrations/volume_8/T08, n0955 - Histoire de la rose marine et de l'ad
+olescente de Chine.jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0955 - Histoire de la rose marine et de l'ado
+lescente de Chine.jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0955 - Histoire de la ros
+e marine et de l'adolescente de Chine.jpg  used on input line 170.
+(pdftex.def)             Requested size: 205.48492pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--178
+
+ []
+
+[139 <./illustrations/volume_8/T08, n0955 - Histoire de la rose marine et de l'
+adolescente de Chine.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+<illustrations/volume_8/T08, n0958 - Histoire de la rose marine et de l'adolesc
+ente de Chine.jpg, id=644, 622.4856pt x 769.1937pt>
+File: illustrations/volume_8/T08, n0958 - Histoire de la rose marine et de l'ad
+olescente de Chine.jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0958 - Histoire de la rose marine et de l'ado
+lescente de Chine.jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0958 - Histoire de la ros
+e marine et de l'adolescente de Chine.jpg  used on input line 186.
+(pdftex.def)             Requested size: 207.22557pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
+
+ []
+
+[140 <./illustrations/volume_8/T08, n0958 - Histoire de la rose marine et de l'
+adolescente de Chine.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+<illustrations/volume_8/T08, n0963 - Histoire du gateau échevelé au miel d'ab
+eilles.jpg, id=648, 613.5723pt x 770.88pt>
+File: illustrations/volume_8/T08, n0963 - Histoire du gateau échevelé au miel
+ d'abeilles.jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0963 - Histoire du gateau échevelé au miel 
+d'abeilles.jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0963 - Histoire du gateau
+ échevelé au miel d'abeilles.jpg  used on input line 202.
+(pdftex.def)             Requested size: 203.8183pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--210
+
+ []
+
+[141 <./illustrations/volume_8/T08, n0963 - Histoire du gateau échevelé au mi
+el d'abeilles.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+<illustrations/volume_8/T08, n0969 - Histoire du gateau échevelé au miel d'ab
+eilles.jpg, id=652, 614.7768pt x 770.88pt>
+File: illustrations/volume_8/T08, n0969 - Histoire du gateau échevelé au miel
+ d'abeilles.jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0969 - Histoire du gateau échevelé au miel 
+d'abeilles.jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0969 - Histoire du gateau
+ échevelé au miel d'abeilles.jpg  used on input line 218.
+(pdftex.def)             Requested size: 204.2184pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
+
+ []
+
+[142 <./illustrations/volume_8/T08, n0969 - Histoire du gateau échevelé au mi
+el d'abeilles.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+<illustrations/volume_8/T08, n0973 - Les lucarnes du savoir et de l'histoire [L
+e poète Doreïd].jpg, id=656, 608.5134pt x 770.88pt>
+File: illustrations/volume_8/T08, n0973 - Les lucarnes du savoir et de l'histoi
+re [Le poète Doreïd].jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0973 - Les lucarnes du savoir et de l'histoir
+e [Le poète Doreïd].jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0973 - Les lucarnes du sa
+voir et de l'histoire [Le poète Doreïd].jpg  used on input line 234.
+(pdftex.def)             Requested size: 202.13782pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--242
+
+ []
+
+[143 <./illustrations/volume_8/T08, n0973 - Les lucarnes du savoir et de l'hist
+oire [Le poète Doreïd].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+<illustrations/volume_8/T08, n0977 - Les lucarnes du savoir et de l'histoire [L
+es maries appréciés par leurs épouses].jpg, id=660, 492.03825pt x 616.704pt>
+
+File: illustrations/volume_8/T08, n0977 - Les lucarnes du savoir et de l'histoi
+re [Les maries appréciés par leurs épouses].jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0977 - Les lucarnes du savoir et de l'histoir
+e [Les maries appréciés par leurs épouses].jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0977 - Les lucarnes du sa
+voir et de l'histoire [Les maries appréciés par leurs épouses].jpg  used on 
+input line 250.
+(pdftex.def)             Requested size: 204.3122pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--258
+
+ []
+
+[144 <./illustrations/volume_8/T08, n0977 - Les lucarnes du savoir et de l'hist
+oire [Les maries appréciés par leurs épouses].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+<illustrations/volume_8/T08, n0982 - Les lucarnes du savoir et de l'histoire [L
+a favorite du destin].jpg, id=665, 1201.48875pt x 1499.6025pt>
+File: illustrations/volume_8/T08, n0982 - Les lucarnes du savoir et de l'histoi
+re [La favorite du destin].jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0982 - Les lucarnes du savoir et de l'histoir
+e [La favorite du destin].jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0982 - Les lucarnes du sa
+voir et de l'histoire [La favorite du destin].jpg  used on input line 266.
+(pdftex.def)             Requested size: 205.16705pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--274
+
+ []
+
+[145 <./illustrations/volume_8/T08, n0982 - Les lucarnes du savoir et de l'hist
+oire [La favorite du destin].jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+<illustrations/volume_8/T08, n0998 - Histoire du prince jasmin de la princesse 
+amande.jpg, id=669, 614.7768pt x 768.7119pt>
+File: illustrations/volume_8/T08, n0998 - Histoire du prince jasmin de la princ
+esse amande.jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n0998 - Histoire du prince jasmin de la prince
+sse amande.jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n0998 - Histoire du prince
+ jasmin de la princesse amande.jpg  used on input line 282.
+(pdftex.def)             Requested size: 204.8pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--290
+
+ []
+
+[146 <./illustrations/volume_8/T08, n0998 - Histoire du prince jasmin de la pri
+ncesse amande.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+<illustrations/volume_8/T08, n1001 - Histoire du prince jasmin de la princesse 
+amande.jpg, id=673, 617.4267pt x 770.88pt>
+File: illustrations/volume_8/T08, n1001 - Histoire du prince jasmin de la princ
+esse amande.jpg Graphic file (type jpg)
+<use illustrations/volume_8/T08, n1001 - Histoire du prince jasmin de la prince
+sse amande.jpg>
+Package pdftex.def Info: illustrations/volume_8/T08, n1001 - Histoire du prince
+ jasmin de la princesse amande.jpg  used on input line 298.
+(pdftex.def)             Requested size: 205.09866pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--306
+
+ []
+
+) (./Carre_nights.bbl [147 <./illustrations/volume_8/T08, n1001 - Histoire du p
+rince jasmin de la princesse amande.jpg>]) [148
+
+] (./Carre_nights.aux) ) 
+Here is how much of TeX's memory you used:
+ 23742 strings out of 479023
+ 543906 string characters out of 5863350
+ 857293 words of memory out of 5000000
+ 40399 multiletter control sequences out of 15000+600000
+ 471664 words of font info for 157 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 112i,6n,116p,713b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.en
+c}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<c:/texlive/2020/te
+xmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/typ
+e1/public/lm/lmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.
+pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/20
+20/texmf-dist/fonts/type1/public/lm/lmro12.pfb>
+Output written on Carre_nights.pdf (155 pages, 74040124 bytes).
+PDF statistics:
+ 706 PDF objects out of 1000 (max. 8388607)
+ 377 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 37716 words of extra memory for PDF output out of 42996 (max. 10000000)
+

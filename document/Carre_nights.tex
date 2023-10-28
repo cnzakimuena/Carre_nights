@@ -1,0 +1,91 @@
+\documentclass[a4paper,12pt,]{book}
+
+\usepackage[T1]{fontenc} % multi-page tcolorbox with complete box on each page
+\usepackage[most]{tcolorbox} % multi-page tcolorbox with complete box on each page
+\usepackage{lmodern} % multi-page tcolorbox with complete box on each page
+\usepackage{hyphenat} % control hyphenation
+%\usepackage[none]{hyphenat} % control hyphenation
+\usepackage{xcolor} % document higlighting color
+\usepackage{color,soul}  % document higlighting
+\usepackage{tcolorbox}  % use box formatting to provide document higlighting
+\usepackage[english]{babel}
+\usepackage{blindtext} % creating 'blind' text useful in testing new classes and packages
+\usepackage{microtype} % will improve justification across the document
+\usepackage{graphicx} % to insert images into the document
+%\usepackage[allfiguresdraft]{draftfigure} % to make figures draft; comment line for rendered version of document
+\usepackage{enumitem} % to make lists look nicer
+\usepackage{amsmath} % to use math formulas
+\usepackage{index} % to use indexes that can be automatically generated
+\usepackage{subfiles} % for multi-file LaTeX projects
+\usepackage{fancyhdr}
+\makeindex % to generate the index (it will be generated as long as whatever we want going into the index is specified)
+
+\addto\captionsenglish{\renewcommand{\chaptername}{Volume}}  % change "Chapter" to something else
+\newcommand{\figsize}{9cm}
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+
+\begin{document}
+
+\title{ 
+	\Huge{\textbf{Léon Carré \protect\\ 1001 nights illustrations}} \\~\\
+	\small{\uppercase{with accompanying excerpts \protect\\ from the J. C. Mardrus translation (French) \protect\\ and the E. P. Mathers translation (English)}}
+} % '\protect\\' breaks title line
+\author{C. M. Bélanger Nzakimuena}
+\date{2023} %'\date{December 21, 2018}' for custom date, \date{\today} for today's date, \date{\the\year{}} for this year
+\maketitle
+
+\setlength\parindent{0pt} % remove in-document indentations 
+\let\cleardoublepage\clearpage % remove blank pages
+
+\frontmatter
+\tableofcontents % table of contents automatically generate
+\pagenumbering{roman} % to make all the page numbering roman
+\setcounter{page}{2} % elect to start numbering on specific page
+
+\chapter*{Notes}
+\addcontentsline{toc}{chapter}{Notes}
+Content is structured into volumes according to the J. C. Mardrus translation of 1001 nights.  Volume subdivisions are outlined according to the range of nights they encompass within the J. C. Mardrus translation.  For each illustration, the associated passage is provided in the French language from the J. C. Mardrus translation, and in the English language from the E. P. Mathers translation.  Individual illustrations are designated by the corresponding night in the J. C. Mardrus translation, and by the name of the story depicted in the English language according to the E. P. Mathers translation.  Each illustration designation is provided in the following format: \\~\\
+\tab\tab\tab\tab nXXXX(\textquotesingle image number\textquotesingle, if > 1)\\
+\tab\tab\tab\tab Story title [Sub-story title [...]]
+
+\mainmatter
+
+\chapter{Nights 0000-0041}
+\newpage
+\subfile{sections/volume_1.tex}
+
+\chapter{Nights 0046-0169}
+\newpage
+\subfile{sections/volume_2.tex}
+
+\chapter{Nights 0180-0343}
+\newpage
+\subfile{sections/volume_3.tex}
+
+\chapter{Nights 0348-0470}
+\newpage
+\subfile{sections/volume_4.tex}
+
+\chapter{Nights 0488-0663}
+\newpage
+\subfile{sections/volume_5.tex}
+
+\chapter{Nights 0704-0811}
+\newpage
+\subfile{sections/volume_6.tex}
+
+\chapter{Nights 0825-0902}
+\newpage
+\subfile{sections/volume_7.tex}
+
+\chapter{Nights 0905-1001}
+\newpage
+\subfile{sections/volume_8.tex}
+
+\nocite{mardrus1959mille} % include reference in bibliography without citing it in the text 
+\nocite{mardrus2002book}
+\bibliographystyle{ieeetran}
+\bibliography{References}
+\addcontentsline{toc}{chapter}{Bibliography} % add bibliograph to table of content
+
+\end{document}
