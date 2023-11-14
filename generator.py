@@ -77,9 +77,10 @@ class Document:
                      + '% include reference in bibliography without citing within the text' + '\n'
                      + chr(92) + 'nocite{mardrus2002book}' + '\n'
                      + chr(92) + 'bibliographystyle{ieeetran}' + '\n'
-                     + chr(92) + 'bibliography{References}' + '\n'
+                     + chr(92) + 'cleardoublepage' + '\n'
                      + chr(92) + 'addcontentsline{toc}{chapter}{Bibliography} '
-                     + '% addition of bibliography to table of content' + '\n' + '\n'
+                     + '% addition of bibliography to table of content' + '\n'
+                     + chr(92) + 'bibliography{References}' + '\n' + '\n'
                      + chr(92) + 'end{document}')
         f.close()
         # move file to document directory
