@@ -1,46 +1,38 @@
 \documentclass[a4paper,12pt,]{book}
 
-\usepackage[T1]{fontenc} % multi-page tcolorbox with complete box on each page
-\usepackage[most]{tcolorbox} % multi-page tcolorbox with complete box on each page
-\usepackage{lmodern} % multi-page tcolorbox with complete box on each page
-\usepackage{hyphenat} % control hyphenation
-%\usepackage[none]{hyphenat} % control hyphenation
-\usepackage{xcolor} % document higlighting color
-\usepackage{color,soul}  % document higlighting
-\usepackage{tcolorbox}  % use box formatting to provide document higlighting
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{hyphenat} % hyphenation control 
+%\usepackage[none]{hyphenat} % hyphenation control
 \usepackage[english]{babel}
-\usepackage{blindtext} % creating 'blind' text useful in testing new classes and packages
-\usepackage{microtype} % will improve justification across the document
-\usepackage{graphicx} % to insert images into the document
-%\usepackage[allfiguresdraft]{draftfigure} % to make figures draft; comment line for rendered version of document
-\usepackage{enumitem} % to make lists look nicer
-\usepackage{amsmath} % to use math formulas
-\usepackage{index} % to use indexes that can be automatically generated
-\usepackage{subfiles} % for multi-file LaTeX projects
+\usepackage{blindtext} % blind text creation for testing
+\usepackage{microtype} % justification improvement across document
+\usepackage{graphicx} % document image insertion
+%\usepackage[allfiguresdraft]{draftfigure} % figures draft mode; comment line for rendered document version
+\usepackage{index} % automatically generated indexes
+\usepackage{subfiles} % multi-file project
 \usepackage{fancyhdr}
-\makeindex % to generate the index (it will be generated as long as whatever we want going into the index is specified)
+\makeindex % index generation (must specify index content)
 
-\addto\captionsenglish{\renewcommand{\chaptername}{Volume}}  % change "Chapter" to something else
+\addto\captionsenglish{\renewcommand{\chaptername}{Volume}}  % alter Chapter text
 \newcommand{\figsize}{9cm}
 \newcommand\tab[1][1cm]{\hspace*{#1}}
 
 \begin{document}
 
 \title{ 
-	\Huge{\textbf{Léon Carré \protect\\ 1001 nights illustrations}} \\~\\
-	\small{\uppercase{with accompanying excerpts \protect\\ from the J. C. Mardrus translation (French) \protect\\ and the E. P. Mathers translation (English)}}
+\Huge{\textbf{Léon Carré \protect\\ 1001 nights illustrations}} \\~\\
+\small{\uppercase{with accompanying excerpts \protect\\ from the J. C. Mardrus translation (French) \protect\\ and the E. P. Mathers translation (English)}}
 } % '\protect\\' breaks title line
 \author{C. M. Bélanger Nzakimuena}
-\date{2023} %'\date{December 21, 2018}' for custom date, \date{\today} for today's date, \date{\the\year{}} for this year
+\date{2023} % '\date{December 21, 2018}' for custom date, \date{\today} for current day, \date{\the\year{}} for current year
 \maketitle
 
-\setlength\parindent{0pt} % remove in-document indentations 
-\let\cleardoublepage\clearpage % remove blank pages
+\setlength\parindent{0pt} % in-document indentations removal
+\let\cleardoublepage\clearpage % blank pages removal
 
 \frontmatter
-\tableofcontents % table of contents automatically generate
-\pagenumbering{roman} % to make all the page numbering roman
-\setcounter{page}{2} % elect to start numbering on specific page
+\tableofcontents % automatic table of contents generation
 
 \chapter*{Notes}
 \addcontentsline{toc}{chapter}{Notes}
@@ -82,10 +74,10 @@ Content is structured into volumes according to the J. C. Mardrus translation of
 \newpage
 \subfile{sections/volume_8.tex}
 
-\nocite{mardrus1959mille} % include reference in bibliography without citing it in the text 
+\nocite{mardrus1959mille} % include reference in bibliography without citing within the text
 \nocite{mardrus2002book}
 \bibliographystyle{ieeetran}
 \bibliography{References}
-\addcontentsline{toc}{chapter}{Bibliography} % add bibliograph to table of content
+\addcontentsline{toc}{chapter}{Bibliography} % addition of bibliography to table of content
 
 \end{document}

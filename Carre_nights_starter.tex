@@ -1,0 +1,43 @@
+\documentclass[a4paper,12pt,]{book}
+
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{hyphenat} % hyphenation control 
+%\usepackage[none]{hyphenat} % hyphenation control
+\usepackage[english]{babel}
+\usepackage{blindtext} % blind text creation for testing
+\usepackage{microtype} % justification improvement across document
+\usepackage{graphicx} % document image insertion
+%\usepackage[allfiguresdraft]{draftfigure} % figures draft mode; comment line for rendered document version
+\usepackage{index} % automatically generated indexes
+\usepackage{subfiles} % multi-file project
+\usepackage{fancyhdr}
+\makeindex % index generation (must specify index content)
+
+\addto\captionsenglish{\renewcommand{\chaptername}{Volume}}  % alter Chapter text
+\newcommand{\figsize}{9cm}
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+
+\begin{document}
+
+\title{ 
+\Huge{\textbf{Léon Carré \protect\\ 1001 nights illustrations}} \\~\\
+\small{\uppercase{with accompanying excerpts \protect\\ from the J. C. Mardrus translation (French) \protect\\ and the E. P. Mathers translation (English)}}
+} % '\protect\\' breaks title line
+\author{C. M. Bélanger Nzakimuena}
+\date{2023} % '\date{December 21, 2018}' for custom date, \date{\today} for current day, \date{\the\year{}} for current year
+\maketitle
+
+\setlength\parindent{0pt} % in-document indentations removal
+\let\cleardoublepage\clearpage % blank pages removal
+
+\frontmatter
+\tableofcontents % automatic table of contents generation
+
+\chapter*{Notes}
+\addcontentsline{toc}{chapter}{Notes}
+Content is structured into volumes according to the J. C. Mardrus translation of 1001 nights.  Volume subdivisions are outlined according to the range of nights they encompass within the J. C. Mardrus translation.  For each illustration, the associated passage is provided in the French language from the J. C. Mardrus translation, and in the English language from the E. P. Mathers translation.  Individual illustrations are designated by the corresponding night in the J. C. Mardrus translation, and by the name of the story depicted in the English language according to the E. P. Mathers translation.  Each illustration designation is provided in the following format: \\~\\
+\tab\tab\tab\tab nXXXX(\textquotesingle image number\textquotesingle, if > 1)\\
+\tab\tab\tab\tab Story title [Sub-story title [...]]
+
+\mainmatter
