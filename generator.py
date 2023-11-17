@@ -34,7 +34,8 @@ class Document:
     @staticmethod
     def create_directory(f_name, f_dir):
         f_path = os.path.join(f_dir, f_name).replace("\\", "/")
-        if not os.path.exists(f_path):
+        is_exist = os.path.exists(f_path)
+        if not is_exist:
             os.mkdir(f_path)
 
     @staticmethod
